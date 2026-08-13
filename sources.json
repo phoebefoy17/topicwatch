@@ -1,0 +1,75 @@
+{
+  "_readme": [
+    "This is your source list. It is the only file you need to edit.",
+    "Buckets starting with an underscore are notes and are skipped by the script.",
+    "",
+    "TWO KINDS OF ENTRY:",
+    "  A plain string   = an RSS feed URL.",
+    "  An object with   = crawl a sitemap instead, keeping only URLs that",
+    "  sitemap + match    contain the match text. Use this for sites with no feed.",
+    "",
+    "STATUS OF THE ENTRIES BELOW:",
+    "  Marketing Dive's feed path is confirmed. The rest are the standard",
+    "  published paths for these outlets but I could not verify each one",
+    "  end-to-end. Expect 2-4 failures on your first run. That is normal and",
+    "  harmless - the script skips a dead feed and carries on. Check the run",
+    "  log, delete anything that failed, and move on.",
+    "",
+    "TO FIX A DEAD ENTRY:",
+    "  Run: python topicwatch.py discover theirdomain.com",
+    "  It prints working feed URLs, or the sitemap paths to use instead."
+  ],
+
+  "_priority": [
+    "The boutique bucket is empty and it is the most important one to fill.",
+    "Dentsu and Prophet publish for Fortune 500 CMOs - that is not your buyer.",
+    "The regional shops competing for mid-market work are the ones whose",
+    "content actually sits between you and a sale. Search 3-4 of your money",
+    "terms, note who ranks on page one, and add their /feed URLs below.",
+    "Almost all of them run WordPress, so <domain>/feed just works.",
+    "Eight to twelve of these is worth more than everything else in this file."
+  ],
+
+  "competitors": [
+    { "sitemap": "https://prophet.com/sitemap.xml", "match": "/thinking/" },
+    { "sitemap": "https://www.dentsu.com/sitemap.xml", "match": "/blog" },
+    { "sitemap": "https://www.dentsu.com/sitemap.xml", "match": "/our-latest-thinking" },
+    "https://www.group.dentsu.com/en/news/rss.xml"
+  ],
+
+  "_hearst_note": [
+    "Hearst is several different businesses and you need to pick the right one.",
+    "Hearst Bay Area is the marketing-services arm that competes with you;",
+    "Hearst Magazines and Hearst newspapers do not. Run discover on",
+    "marketing.hearstbayarea.com, then uncomment or replace the line below."
+  ],
+
+  "hearst": [
+    "https://marketing.hearstbayarea.com/feed"
+  ],
+
+  "trade_press": [
+    "https://www.marketingdive.com/feeds/news/",
+    "https://digiday.com/feed/",
+    "https://www.adexchanger.com/feed/",
+    "https://martech.org/feed/",
+    "https://www.marketingweek.com/feed/",
+    "https://adage.com/rss.xml",
+    "https://www.thedrum.com/rss.xml",
+    "https://www.cmswire.com/rss/"
+  ],
+
+  "seo_press": [
+    "https://searchengineland.com/feed",
+    "https://www.searchenginejournal.com/feed/",
+    "https://moz.com/posts/rss/blog",
+    "https://ahrefs.com/blog/feed/",
+    "https://backlinko.com/feed"
+  ],
+
+  "boutique": [
+  ],
+
+  "own": [
+  ]
+}
