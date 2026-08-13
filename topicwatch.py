@@ -153,6 +153,23 @@ CATEGORY_NOISE = {
     "teams", "market", "markets",
 }
 
+# Which vertical each bucket rolls up into, for per-vertical reports.
+# Buckets not listed here become their own vertical.
+VERTICAL_OF = {
+    "competitors": "agencies",
+    "hearst": "agencies",
+    "boutique": "agencies",
+    "trade_press": "marketing",
+    "seo_press": "seo",
+    "ai_press": "ai",
+    "ai_business": "ai",
+    "tech_press": "tech",
+    "fintech": "fintech",
+    "devtools": "software",
+    "smb_growth": "smb",
+    "own": "own",
+}
+
 TOKEN_RE = re.compile(r"[a-z][a-z0-9'\-\.]{1,}")
 QUESTION_RE = re.compile(
     r"^\s*(how|what|why|when|which|who|where|can|should|do|does|is|are|will)\b.*",
@@ -516,11 +533,15 @@ def doc_terms(text, title=""):
 # --------------------------------------------------------------------------
 # Analysis: rising terms
 # --------------------------------------------------------------------------
-def window_counts(conn, start, end):
-    """Return {gram_size: Counter} plus doc frequency, for a date window."""
-    rows = conn.execute(
-        "SELECT title, body FROM articles WHERE published >= ? AND published < ?",
-        (start.isoformat(), end.isoformat())).fetchall()
+def window_counts(conn, start, end, buckets=None):
+    """Return {gram_size: Counter} plus doc frequency, for a date window.
+    buckets: optional list of bucket names to restrict to."""
+    q = "SELECT title, body FROM articles WHERE published >= ? AND published < ?"
+    params = [start.isoformat(), end.isoformat()]
+    if buckets:
+        q += " AND bucket IN (%s)" % ",".join("?" * len(buckets))
+        params += list(buckets)
+    rows = conn.execute(q, params).fetchall()
 
     counts = {1: Counter(), 2: Counter(), 3: Counter()}
     docfreq = {1: Counter(), 2: Counter(), 3: Counter()}
@@ -562,12 +583,15 @@ def rising(recent, baseline, recent_docs, base_docs, docfreq=None,
     return out[:top]
 
 
-def questions(conn, days=30, top=30):
+def questions(conn, days=30, top=30, buckets=None):
     """Question-shaped titles = the queries the space is trying to own."""
     cutoff = (datetime.now(timezone.utc) - timedelta(days=days)).isoformat()
-    rows = conn.execute(
-        "SELECT title, url, source FROM articles WHERE published >= ?",
-        (cutoff,)).fetchall()
+    q = "SELECT title, url, source FROM articles WHERE published >= ?"
+    params = [cutoff]
+    if buckets:
+        q += " AND bucket IN (%s)" % ",".join("?" * len(buckets))
+        params += list(buckets)
+    rows = conn.execute(q, params).fetchall()
     qs = []
     for r in rows:
         t = (r["title"] or "").strip()
@@ -587,18 +611,23 @@ def source_share(conn, days=30):
 # --------------------------------------------------------------------------
 # Report
 # --------------------------------------------------------------------------
-def report(recent_days=7, baseline_days=45):
+def report(recent_days=7, baseline_days=45, buckets=None, label=None):
+    """Build one report. buckets=None pools everything; pass a list to scope
+    the analysis to one vertical. Mixing unrelated verticals in one corpus
+    flattens the lift scores, so per-vertical reports are the default."""
     conn = db()
     now = datetime.now(timezone.utc)
     r_start, b_start = now - timedelta(days=recent_days), now - timedelta(days=baseline_days)
 
-    rc, rdf, r_n = window_counts(conn, r_start, now)
-    bc, bdf, b_n = window_counts(conn, b_start, r_start)
+    rc, rdf, r_n = window_counts(conn, r_start, now, buckets)
+    bc, bdf, b_n = window_counts(conn, b_start, r_start, buckets)
 
     os.makedirs(REPORT_DIR, exist_ok=True)
-    path = os.path.join(REPORT_DIR, f"{now:%Y-%m-%d}-topicwatch.md")
+    slug = f"-{label}" if label else ""
+    path = os.path.join(REPORT_DIR, f"{now:%Y-%m-%d}-topicwatch{slug}.md")
 
-    L = [f"# Topic watch — {now:%Y-%m-%d}", ""]
+    heading = f" — {label}" if label else ""
+    L = [f"# Topic watch{heading} — {now:%Y-%m-%d}", ""]
     L += [f"Window: last **{recent_days}d** ({r_n} posts) vs. prior "
           f"**{baseline_days - recent_days}d** ({b_n} posts).", ""]
 
@@ -625,7 +654,7 @@ def report(recent_days=7, baseline_days=45):
     L += ["## Question headlines (last 30d)", "",
           "Each of these is a query someone decided was worth a whole page. "
           "This is your AI-SEO shortlist.", ""]
-    for t, src, url in questions(conn):
+    for t, src, url in questions(conn, buckets=buckets):
         L.append(f"- {t}  \n  <sub>{src} — {url}</sub>")
     L.append("")
 
@@ -636,6 +665,29 @@ def report(recent_days=7, baseline_days=45):
     open(path, "w").write("\n".join(L))
     print(f"[ok] wrote {path}")
     return path
+
+
+def report_all(recent_days=7, baseline_days=45):
+    """One report per vertical, plus a pooled one. Reading five focused
+    reports beats reading one blurred report."""
+    conn = db()
+    buckets = [r[0] for r in conn.execute(
+        "SELECT DISTINCT bucket FROM articles WHERE bucket IS NOT NULL")]
+    groups = {}
+    for b in buckets:
+        groups.setdefault(VERTICAL_OF.get(b, b), []).append(b)
+
+    paths = []
+    for vertical, bs in sorted(groups.items()):
+        n = conn.execute(
+            "SELECT COUNT(*) FROM articles WHERE bucket IN (%s)"
+            % ",".join("?" * len(bs)), bs).fetchone()[0]
+        if n < 15:
+            print(f"[skip] {vertical}: only {n} docs — too thin to score")
+            continue
+        paths.append(report(recent_days, baseline_days, bs, vertical))
+    paths.append(report(recent_days, baseline_days, None, "all"))
+    return paths
 
 
 def gaps(days=90):
@@ -685,8 +737,8 @@ def init():
 def main():
     p = argparse.ArgumentParser(description=__doc__,
                                 formatter_class=argparse.RawDescriptionHelpFormatter)
-    p.add_argument("cmd", choices=["init", "fetch", "report", "run", "gaps",
-                                   "discover"])
+    p.add_argument("cmd", choices=["init", "fetch", "report", "report-all",
+                                   "run", "gaps", "discover"])
     p.add_argument("domain", nargs="?", help="domain for `discover`")
     p.add_argument("--recent", type=int, default=7)
     p.add_argument("--baseline", type=int, default=45)
@@ -702,9 +754,11 @@ def main():
         fetch()
     elif a.cmd == "report":
         report(a.recent, a.baseline)
+    elif a.cmd == "report-all":
+        report_all(a.recent, a.baseline)
     elif a.cmd == "run":
         fetch()
-        report(a.recent, a.baseline)
+        report_all(a.recent, a.baseline)
     elif a.cmd == "gaps":
         gaps()
 
