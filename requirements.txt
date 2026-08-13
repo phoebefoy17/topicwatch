@@ -1,0 +1,14 @@
+# Dependencies for topicwatch.
+#
+# This file has a second job beyond installing packages: actions/setup-python
+# with `cache: pip` requires a dependency file to exist, and errors out with
+# "No file matched to [**/requirements.txt or **/pyproject.toml]" without one.
+#
+# These are minimum floors, not exact pins. Once your first run succeeds,
+# tighten them by running `pip freeze | grep -Ei "feedparser|trafilatura"`
+# locally (or copying the versions from the Actions install log) and replacing
+# the >= with ==. An unattended daily job should eventually be fully pinned,
+# so an upstream breaking release can't take it down while you aren't looking.
+
+feedparser>=6.0.10
+trafilatura>=1.12.0
