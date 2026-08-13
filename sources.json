@@ -1,33 +1,35 @@
 {
   "_readme": [
-    "This is your source list. It is the only file you need to edit.",
-    "Buckets starting with an underscore are notes and are skipped by the script.",
+    "Buckets starting with _ are notes and are skipped by the script.",
+    "Entries are either a feed URL string, or {\"sitemap\":..., \"match\":...}.",
     "",
-    "TWO KINDS OF ENTRY:",
-    "  A plain string   = an RSS feed URL.",
-    "  An object with   = crawl a sitemap instead, keeping only URLs that",
-    "  sitemap + match    contain the match text. Use this for sites with no feed.",
+    "IMPORTANT: run report-all, not report. Buckets roll up into verticals",
+    "(see VERTICAL_OF in topicwatch.py) and each vertical gets its own report.",
+    "Pooling five unrelated vocabularies into one ranking destroys the signal.",
     "",
-    "STATUS OF THE ENTRIES BELOW:",
-    "  Marketing Dive's feed path is confirmed. The rest are the standard",
-    "  published paths for these outlets but I could not verify each one",
-    "  end-to-end. Expect 2-4 failures on your first run. That is normal and",
-    "  harmless - the script skips a dead feed and carries on. Check the run",
-    "  log, delete anything that failed, and move on.",
-    "",
-    "TO FIX A DEAD ENTRY:",
-    "  Run: python topicwatch.py discover theirdomain.com",
-    "  It prints working feed URLs, or the sitemap paths to use instead."
+    "VERIFICATION STATUS: these are the standard published feed paths for these",
+    "outlets. I verified a handful directly; the rest are unconfirmed. Expect",
+    "some failures on the first run - the log now names each dead feed. Run",
+    "python topicwatch.py discover <domain> on any you want to rescue,",
+    "and delete the ones you do not."
   ],
 
-  "_priority": [
-    "The boutique bucket is empty and it is the most important one to fill.",
-    "Dentsu and Prophet publish for Fortune 500 CMOs - that is not your buyer.",
-    "The regional shops competing for mid-market work are the ones whose",
-    "content actually sits between you and a sale. Search 3-4 of your money",
-    "terms, note who ranks on page one, and add their /feed URLs below.",
-    "Almost all of them run WordPress, so <domain>/feed just works.",
-    "Eight to twelve of these is worth more than everything else in this file."
+  "_read_this_first": [
+    "You now have several verticals. That is a lot of reading and most of it",
+    "will not change what you publish. Ranked by likely value to you:",
+    "",
+    "  1. boutique    - the shops you actually compete with. STILL EMPTY.",
+    "                   Worth more than everything else in this file combined.",
+    "  2. seo_press   - where the AI-SEO vocabulary gets coined.",
+    "  3. smb_growth  - your buyer's own vocabulary, in their words.",
+    "  4. trade_press - what your agency competitors echo about 3 weeks later.",
+    "  5. ai_business - applied AI, close to how buyers talk.",
+    "  6. ai_press    - mostly model releases and funding. Low signal for you.",
+    "",
+    "fintech and devtools are here because you asked. Be honest about whether",
+    "those are your buyers' industries or just adjacent interests. If you are",
+    "not selling into them specifically, they are noise you pay for in reading",
+    "time. Deleting a bucket is one line."
   ],
 
   "competitors": [
@@ -37,15 +39,11 @@
     "https://www.group.dentsu.com/en/news/rss.xml"
   ],
 
-  "_hearst_note": [
-    "Hearst is several different businesses and you need to pick the right one.",
-    "Hearst Bay Area is the marketing-services arm that competes with you;",
-    "Hearst Magazines and Hearst newspapers do not. Run discover on",
-    "marketing.hearstbayarea.com, then uncomment or replace the line below."
-  ],
-
   "hearst": [
     "https://marketing.hearstbayarea.com/feed"
+  ],
+
+  "boutique": [
   ],
 
   "trade_press": [
@@ -64,10 +62,61 @@
     "https://www.searchenginejournal.com/feed/",
     "https://moz.com/posts/rss/blog",
     "https://ahrefs.com/blog/feed/",
-    "https://backlinko.com/feed"
+    "https://backlinko.com/feed",
+    "https://www.semrush.com/blog/feed/"
   ],
 
-  "boutique": [
+  "_ai_note": [
+    "Two flavours of AI coverage. ai_press is product and research news;",
+    "ai_business is the applied and enterprise angle. The second is far more",
+    "useful to you - it is closer to how your buyer talks about AI."
+  ],
+
+  "ai_press": [
+    "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "https://venturebeat.com/category/ai/feed/",
+    "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    "https://arstechnica.com/ai/feed/",
+    "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+  ],
+
+  "ai_business": [
+    "https://hbr.org/topic/subject/ai-and-machine-learning/feed",
+    "https://sloanreview.mit.edu/topic/artificial-intelligence/feed/",
+    "https://a16z.com/feed/",
+    "https://www.bain.com/insights/rss/"
+  ],
+
+  "tech_press": [
+    "https://techcrunch.com/feed/",
+    "https://arstechnica.com/feed/",
+    "https://www.wired.com/feed/rss",
+    "https://news.ycombinator.com/rss"
+  ],
+
+  "fintech": [
+    "https://www.fintechfutures.com/feed",
+    "https://www.finextra.com/rss/headlines.aspx",
+    "https://www.americanbanker.com/feed",
+    "https://www.pymnts.com/feed/",
+    "https://www.bankingdive.com/feeds/news/",
+    "https://thefintechtimes.com/feed/"
+  ],
+
+  "devtools": [
+    "https://stackoverflow.blog/feed/",
+    "https://github.blog/feed/",
+    "https://www.infoq.com/feed/",
+    "https://thenewstack.io/feed/",
+    "https://blog.pragmaticengineer.com/rss/"
+  ],
+
+  "smb_growth": [
+    "https://www.inc.com/rss/",
+    "https://www.entrepreneur.com/latest.rss",
+    "https://www.shopify.com/blog/feed",
+    "https://blog.hubspot.com/marketing/rss.xml",
+    "https://www.saastr.com/feed/"
   ],
 
   "own": [
