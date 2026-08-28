@@ -1,6 +1,6 @@
 # Topic watch — marketing — 2026-08-28
 
-Window: last **7d** (85 posts) vs. prior **38d** (127 posts).
+Window: last **7d** (84 posts) vs. prior **38d** (142 posts).
 
 ## Rising phrases (2-word)
 
@@ -8,31 +8,31 @@ Window: last **7d** (85 posts) vs. prior **38d** (127 posts).
 
 | term | now | before | docs | lift | score |
 |---|---:|---:|---:|---:|---:|
-| sticki rolls | 38 | 0 | 8 | 4.68 | 17.13 |
-| toy brand | 19 | 0 | 8 | 3.98 | 11.93 |
-| brand sticki | 18 | 0 | 8 | 3.93 | 11.57 |
-| rolls youtube | 14 | 0 | 8 | 3.68 | 9.96 |
-| agency exec | 13 | 0 | 5 | 3.6 | 9.51 |
-| win gen | 12 | 0 | 9 | 3.52 | 9.04 |
-| b2b marketers | 12 | 0 | 3 | 3.52 | 9.04 |
-| marketing automation | 25 | 2 | 5 | 2.65 | 8.63 |
-| inside toy | 11 | 0 | 8 | 3.44 | 8.54 |
-| strategy win | 11 | 0 | 8 | 3.44 | 8.54 |
-| digiday research | 11 | 0 | 4 | 3.44 | 8.54 |
-| paid search | 17 | 1 | 2 | 2.77 | 8.02 |
-| apple pay | 10 | 0 | 4 | 3.34 | 8.01 |
-| revenue model | 10 | 0 | 4 | 3.34 | 8.01 |
-| model creators | 10 | 0 | 4 | 3.34 | 8.01 |
-| play quest | 9 | 0 | 2 | 3.24 | 7.45 |
-| customer-facing content | 9 | 0 | 4 | 3.24 | 7.45 |
-| marketers chasing | 9 | 0 | 4 | 3.24 | 7.45 |
-| iab developing | 9 | 0 | 4 | 3.24 | 7.45 |
-| google pay | 9 | 0 | 4 | 3.24 | 7.45 |
-| desk betting | 9 | 0 | 6 | 3.24 | 7.45 |
-| milani cosmetics | 9 | 0 | 4 | 3.24 | 7.45 |
-| inside dumpster | 9 | 0 | 5 | 3.24 | 7.45 |
-| dumpster fires | 9 | 0 | 5 | 3.24 | 7.45 |
-| programmatic-ification creator | 9 | 0 | 5 | 3.24 | 7.45 |
+| agency exec | 18 | 0 | 7 | 4.07 | 11.97 |
+| premier league | 14 | 0 | 2 | 3.81 | 10.33 |
+| desk betting | 12 | 0 | 8 | 3.66 | 9.39 |
+| inside dumpster | 12 | 0 | 7 | 3.66 | 9.39 |
+| dumpster fires | 12 | 0 | 7 | 3.66 | 9.39 |
+| apple pay | 11 | 0 | 5 | 3.57 | 8.88 |
+| digiday research | 11 | 0 | 4 | 3.57 | 8.88 |
+| kokai trade | 11 | 0 | 7 | 3.57 | 8.88 |
+| betting refinement | 11 | 0 | 7 | 3.57 | 8.88 |
+| refinement zuma | 11 | 0 | 7 | 3.57 | 8.88 |
+| fires confessions | 11 | 0 | 7 | 3.57 | 8.88 |
+| confessions frustrated | 11 | 0 | 7 | 3.57 | 8.88 |
+| frustrated indie | 11 | 0 | 7 | 3.57 | 8.88 |
+| paid search | 17 | 1 | 2 | 2.91 | 8.41 |
+| google pay | 10 | 0 | 5 | 3.48 | 8.34 |
+| revenue model | 10 | 0 | 4 | 3.48 | 8.34 |
+| model creators | 10 | 0 | 4 | 3.48 | 8.34 |
+| licensing deals | 16 | 1 | 5 | 2.85 | 8.07 |
+| customer-facing content | 9 | 0 | 4 | 3.37 | 7.77 |
+| marketers chasing | 9 | 0 | 4 | 3.37 | 7.77 |
+| iab developing | 9 | 0 | 4 | 3.37 | 7.77 |
+| milani cosmetics | 9 | 0 | 4 | 3.37 | 7.77 |
+| reformatting content | 9 | 0 | 3 | 3.37 | 7.77 |
+| attract licensing | 9 | 0 | 3 | 3.37 | 7.77 |
+| programmatic-ification creator | 9 | 0 | 5 | 3.37 | 7.77 |
 
 ## Rising phrases (3-word)
 
@@ -40,31 +40,31 @@ Window: last **7d** (85 posts) vs. prior **38d** (127 posts).
 
 | term | now | before | docs | lift | score |
 |---|---:|---:|---:|---:|---:|
-| toy brand sticki | 18 | 0 | 8 | 3.93 | 11.57 |
-| brand sticki rolls | 18 | 0 | 8 | 3.93 | 11.57 |
-| sticki rolls youtube | 14 | 0 | 8 | 3.68 | 9.96 |
-| rolls youtube strategy | 12 | 0 | 8 | 3.52 | 9.04 |
-| indie agency exec | 12 | 0 | 5 | 3.52 | 9.04 |
-| inside toy brand | 11 | 0 | 8 | 3.44 | 8.54 |
-| youtube strategy win | 11 | 0 | 8 | 3.44 | 8.54 |
-| strategy win gen | 11 | 0 | 8 | 3.44 | 8.54 |
-| win gen alpha | 11 | 0 | 8 | 3.44 | 8.54 |
-| revenue model creators | 10 | 0 | 4 | 3.34 | 8.01 |
-| trade desk betting | 9 | 0 | 6 | 3.24 | 7.45 |
-| inside dumpster fires | 9 | 0 | 5 | 3.24 | 7.45 |
-| programmatic-ification creator economy | 9 | 0 | 5 | 3.24 | 7.45 |
-| brands creator ambassador | 8 | 0 | 5 | 3.12 | 6.85 |
-| creator ambassador becoming | 8 | 0 | 5 | 3.12 | 6.85 |
-| ambassador becoming creator | 8 | 0 | 5 | 3.12 | 6.85 |
-| becoming creator executive | 8 | 0 | 5 | 3.12 | 6.85 |
-| creates revenue model | 8 | 0 | 4 | 3.12 | 6.85 |
-| model creators will | 8 | 0 | 4 | 3.12 | 6.85 |
-| creators will actually | 8 | 0 | 4 | 3.12 | 6.85 |
-| will actually win | 8 | 0 | 4 | 3.12 | 6.85 |
-| kokai trade desk | 8 | 0 | 5 | 3.12 | 6.85 |
-| desk betting refinement | 8 | 0 | 5 | 3.12 | 6.85 |
-| betting refinement zuma | 8 | 0 | 5 | 3.12 | 6.85 |
-| dumpster fires confessions | 8 | 0 | 5 | 3.12 | 6.85 |
+| indie agency exec | 17 | 0 | 7 | 4.01 | 11.59 |
+| trade desk betting | 12 | 0 | 8 | 3.66 | 9.39 |
+| inside dumpster fires | 12 | 0 | 7 | 3.66 | 9.39 |
+| kokai trade desk | 11 | 0 | 7 | 3.57 | 8.88 |
+| desk betting refinement | 11 | 0 | 7 | 3.57 | 8.88 |
+| betting refinement zuma | 11 | 0 | 7 | 3.57 | 8.88 |
+| dumpster fires confessions | 11 | 0 | 7 | 3.57 | 8.88 |
+| fires confessions frustrated | 11 | 0 | 7 | 3.57 | 8.88 |
+| confessions frustrated indie | 11 | 0 | 7 | 3.57 | 8.88 |
+| frustrated indie agency | 11 | 0 | 7 | 3.57 | 8.88 |
+| revenue model creators | 10 | 0 | 4 | 3.48 | 8.34 |
+| attract licensing deals | 9 | 0 | 3 | 3.37 | 7.76 |
+| programmatic-ification creator economy | 9 | 0 | 5 | 3.37 | 7.76 |
+| commerce retail media | 9 | 0 | 2 | 3.37 | 7.76 |
+| apple pay google | 8 | 0 | 5 | 3.25 | 7.15 |
+| pay google pay | 8 | 0 | 5 | 3.25 | 7.15 |
+| creates revenue model | 8 | 0 | 4 | 3.25 | 7.15 |
+| model creators will | 8 | 0 | 4 | 3.25 | 7.15 |
+| creators will actually | 8 | 0 | 4 | 3.25 | 7.15 |
+| will actually win | 8 | 0 | 4 | 3.25 | 7.15 |
+| refinement zuma trade | 8 | 0 | 7 | 3.25 | 7.15 |
+| zuma trade desk | 8 | 0 | 7 | 3.25 | 7.15 |
+| case programmatic-ification creator | 8 | 0 | 5 | 3.25 | 7.15 |
+| playbook rules brands | 7 | 0 | 4 | 3.12 | 6.49 |
+| rules brands setting | 7 | 0 | 4 | 3.12 | 6.49 |
 
 ## Rising single terms
 
@@ -72,56 +72,56 @@ Window: last **7d** (85 posts) vs. prior **38d** (127 posts).
 
 | term | now | before | docs | lift | score |
 |---|---:|---:|---:|---:|---:|
-| sticki | 41 | 0 | 8 | 4.76 | 17.78 |
-| kokai | 41 | 0 | 7 | 4.76 | 17.78 |
-| hubspot | 66 | 1 | 2 | 4.13 | 17.39 |
-| toy | 24 | 0 | 8 | 4.22 | 13.59 |
-| hubs | 24 | 0 | 2 | 4.22 | 13.59 |
-| nil | 22 | 0 | 3 | 4.13 | 12.96 |
-| ann | 22 | 0 | 2 | 4.13 | 12.96 |
-| zuma | 20 | 0 | 6 | 4.04 | 12.3 |
-| coke | 19 | 0 | 3 | 3.99 | 11.95 |
-| quest | 18 | 0 | 2 | 3.93 | 11.58 |
-| linkedin | 185 | 30 | 8 | 2.15 | 11.25 |
-| fandoms | 14 | 0 | 5 | 3.68 | 9.97 |
-| fantasy | 14 | 0 | 3 | 3.68 | 9.97 |
-| discord | 37 | 3 | 5 | 2.71 | 9.85 |
-| rolls | 42 | 4 | 10 | 2.58 | 9.72 |
-| outline | 13 | 0 | 4 | 3.61 | 9.52 |
-| football | 32 | 3 | 5 | 2.56 | 8.96 |
-| ttd | 25 | 2 | 3 | 2.65 | 8.64 |
-| finalists | 11 | 0 | 2 | 3.44 | 8.55 |
-| comcast | 18 | 1 | 3 | 2.84 | 8.35 |
-| howlett | 10 | 0 | 4 | 3.35 | 8.02 |
-| follower | 10 | 0 | 3 | 3.35 | 8.02 |
-| frustrated | 10 | 0 | 5 | 3.35 | 8.02 |
-| programmatic-ification | 10 | 0 | 5 | 3.35 | 8.02 |
-| koa | 10 | 0 | 3 | 3.35 | 8.02 |
+| kokai | 46 | 0 | 9 | 5.01 | 19.29 |
+| salesforce | 48 | 1 | 4 | 3.95 | 15.38 |
+| zuma | 25 | 0 | 8 | 4.4 | 14.33 |
+| alphonso | 23 | 0 | 2 | 4.32 | 13.72 |
+| coke | 19 | 0 | 3 | 4.12 | 12.36 |
+| linkedin | 185 | 30 | 8 | 2.29 | 11.97 |
+| carhartt | 16 | 0 | 2 | 3.95 | 11.2 |
+| fandoms | 15 | 0 | 6 | 3.89 | 10.78 |
+| fantasy | 14 | 0 | 3 | 3.82 | 10.34 |
+| stadium | 14 | 0 | 2 | 3.82 | 10.34 |
+| football | 36 | 3 | 7 | 2.82 | 10.18 |
+| outline | 13 | 0 | 4 | 3.75 | 9.88 |
+| settle | 13 | 0 | 7 | 3.75 | 9.88 |
+| confessions | 13 | 0 | 7 | 3.75 | 9.88 |
+| frustrated | 13 | 0 | 7 | 3.75 | 9.88 |
+| dumpster | 12 | 0 | 7 | 3.67 | 9.4 |
+| ttd | 26 | 2 | 4 | 2.83 | 9.32 |
+| finalists | 11 | 0 | 2 | 3.58 | 8.89 |
+| refinement | 11 | 0 | 7 | 3.58 | 8.89 |
+| athleta | 24 | 2 | 2 | 2.75 | 8.85 |
+| comcast | 18 | 1 | 3 | 2.97 | 8.75 |
+| reformatting | 10 | 0 | 3 | 3.48 | 8.35 |
+| programmatic-ification | 10 | 0 | 5 | 3.48 | 8.35 |
+| koa | 10 | 0 | 3 | 3.48 | 8.35 |
+| settlement | 10 | 0 | 3 | 3.48 | 8.35 |
 
 ## Stable core (highest doc-frequency, last window)
 
 These are table stakes — if you don't cover them you look absent.
 
-- **connect publishing** — appears in 25/85 posts
-- **miami connect** — appears in 25/85 posts
-- **sept miami** — appears in 25/85 posts
-- **publishing leaders** — appears in 25/85 posts
-- **join sept** — appears in 25/85 posts
-- **search results** — appears in 23/85 posts
-- **social media** — appears in 22/85 posts
-- **feature allows** — appears in 21/85 posts
-- **often stories** — appears in 21/85 posts
-- **outlets often** — appears in 20/85 posts
-- **source google** — appears in 20/85 posts
-- **news outlets** — appears in 20/85 posts
-- **preferred sources** — appears in 20/85 posts
-- **sources feature** — appears in 20/85 posts
-- **google's preferred** — appears in 20/85 posts
-- **section add** — appears in 20/85 posts
-- **spy website** — appears in 20/85 posts
-- **add preferred** — appears in 20/85 posts
-- **allows customize** — appears in 20/85 posts
-- **results selecting** — appears in 20/85 posts
+- **social media** — appears in 25/84 posts
+- **join sept** — appears in 23/84 posts
+- **sept miami** — appears in 23/84 posts
+- **publishing leaders** — appears in 23/84 posts
+- **connect publishing** — appears in 23/84 posts
+- **miami connect** — appears in 23/84 posts
+- **search results** — appears in 22/84 posts
+- **often stories** — appears in 20/84 posts
+- **feature allows** — appears in 20/84 posts
+- **stories section** — appears in 19/84 posts
+- **selecting news** — appears in 19/84 posts
+- **add preferred** — appears in 19/84 posts
+- **news outlets** — appears in 19/84 posts
+- **google's preferred** — appears in 19/84 posts
+- **outlets often** — appears in 19/84 posts
+- **allows customize** — appears in 19/84 posts
+- **preferred source** — appears in 19/84 posts
+- **section add** — appears in 19/84 posts
+- **results selecting** — appears in 19/84 posts
+- **add martech** — appears in 19/84 posts
 
 ## Question headlines (last 30d)
 
@@ -190,35 +190,35 @@ Each of these is a query someone decided was worth a whole page. This is your AI
 
 ## Publishing volume by source (30d)
 
-- Inc.com: 456
-- Hacker News: 404
-- WIRED: 254
-- Finextra Research Headlines: 187
-- TechCrunch: 120
-- PYMNTS |: 120
-- AI News & Artificial Intelligence | TechCrunch: 113
-- The New Stack: 107
-- Ars Technica: 103
-- Entrepreneur – Latest: 101
-- InfoQ: 97
-- Search Engine Journal: 88
-- Digiday: 69
-- The Fintech Times: 62
-- MarTech: 49
-- Banking Dive - Latest News: 48
-- AI | The Verge: 48
-- Marketing Dive - Latest News: 47
-- AdExchanger: 47
-- AI - Ars Technica: 44
-- SaaStrAI: 35
+- Inc.com: 490
+- Hacker News: 433
+- WIRED: 273
+- Finextra Research Headlines: 194
+- PYMNTS |: 130
+- TechCrunch: 128
+- AI News & Artificial Intelligence | TechCrunch: 118
+- The New Stack: 112
+- Entrepreneur – Latest: 110
+- Ars Technica: 110
+- InfoQ: 103
+- Search Engine Journal: 94
+- Digiday: 72
+- The Fintech Times: 65
+- MarTech: 53
+- Banking Dive - Latest News: 52
+- AdExchanger: 51
+- Marketing Dive - Latest News: 50
+- AI | The Verge: 49
+- AI - Ars Technica: 46
+- SaaStrAI: 37
 - Marketing: 27
-- Artificial intelligence – MIT Technology Review: 23
-- Semrush blog: 22
+- Semrush blog: 23
+- Artificial intelligence – MIT Technology Review: 22
 - The GitHub Blog: 18
 - Stack Overflow Blog: 18
 - moz (en-US): 13
+- dentsu.com: 6
 - The Pragmatic Engineer: 6
-- dentsu.com: 5
-- SEO Blog by Ahrefs: 5
+- SEO Blog by Ahrefs: 6
 - AI | VentureBeat: 4
 - Backlinko: 3

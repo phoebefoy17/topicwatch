@@ -1,6 +1,6 @@
 # Topic watch — smb — 2026-08-28
 
-Window: last **7d** (231 posts) vs. prior **38d** (404 posts).
+Window: last **7d** (230 posts) vs. prior **38d** (449 posts).
 
 ## Rising phrases (2-word)
 
@@ -8,31 +8,31 @@ Window: last **7d** (231 posts) vs. prior **38d** (404 posts).
 
 | term | now | before | docs | lift | score |
 |---|---:|---:|---:|---:|---:|
-| next breakthrough | 10 | 0 | 2 | 4.26 | 10.22 |
-| family members | 10 | 0 | 2 | 4.26 | 10.22 |
-| study suggests | 9 | 0 | 3 | 4.16 | 9.57 |
-| jack daniel | 9 | 0 | 2 | 4.16 | 9.57 |
-| dolly parton | 9 | 0 | 3 | 4.16 | 9.57 |
-| million people | 13 | 1 | 4 | 3.42 | 9.04 |
-| data centers | 8 | 0 | 3 | 4.04 | 8.87 |
-| real story | 8 | 0 | 5 | 4.04 | 8.87 |
-| putting money | 8 | 0 | 3 | 4.04 | 8.87 |
-| companies growing | 8 | 0 | 2 | 4.04 | 8.87 |
-| scott bessent | 7 | 0 | 3 | 3.9 | 8.12 |
-| enterprise value | 7 | 0 | 4 | 3.9 | 8.12 |
-| institutional buyers | 7 | 0 | 2 | 3.9 | 8.12 |
-| hard decisions | 6 | 0 | 2 | 3.75 | 7.3 |
-| build marketing | 6 | 0 | 2 | 3.75 | 7.3 |
-| business opportunity | 6 | 0 | 2 | 3.75 | 7.3 |
-| away deal | 6 | 0 | 2 | 3.75 | 7.3 |
-| half billion | 6 | 0 | 3 | 3.75 | 7.3 |
-| anyone business | 6 | 0 | 3 | 3.75 | 7.3 |
-| earns keep | 6 | 0 | 2 | 3.75 | 7.3 |
-| premium valuations | 6 | 0 | 3 | 3.75 | 7.3 |
-| buyers lenders | 6 | 0 | 2 | 3.75 | 7.3 |
-| investors don | 6 | 0 | 2 | 3.75 | 7.3 |
-| hold back | 6 | 0 | 3 | 3.75 | 7.3 |
-| personal brands | 6 | 0 | 2 | 3.75 | 7.3 |
+| hugging face | 12 | 0 | 3 | 4.54 | 11.64 |
+| dolly parton | 12 | 0 | 4 | 4.54 | 11.64 |
+| next breakthrough | 10 | 0 | 2 | 4.35 | 10.44 |
+| family members | 10 | 0 | 2 | 4.35 | 10.44 |
+| credit cards | 10 | 0 | 3 | 4.35 | 10.44 |
+| study suggests | 9 | 0 | 3 | 4.25 | 9.79 |
+| jack daniel | 9 | 0 | 2 | 4.25 | 9.79 |
+| u.s market | 9 | 0 | 2 | 4.25 | 9.79 |
+| putting money | 8 | 0 | 3 | 4.13 | 9.08 |
+| people miss | 8 | 0 | 4 | 4.13 | 9.08 |
+| companies growing | 8 | 0 | 2 | 4.13 | 9.08 |
+| start asking | 12 | 1 | 5 | 3.44 | 8.82 |
+| personal brands | 6 | 0 | 2 | 3.84 | 7.48 |
+| isn easy | 6 | 0 | 2 | 3.84 | 7.48 |
+| retirement contributions | 6 | 0 | 3 | 3.84 | 7.48 |
+| tax moves | 6 | 0 | 2 | 3.84 | 7.48 |
+| american express | 6 | 0 | 2 | 3.84 | 7.48 |
+| money coming | 6 | 0 | 2 | 3.84 | 7.48 |
+| next tech | 6 | 0 | 2 | 3.84 | 7.48 |
+| run rate | 14 | 3 | 5 | 2.75 | 7.44 |
+| already sold | 8 | 1 | 2 | 3.03 | 6.66 |
+| free cash | 22 | 10 | 6 | 2.1 | 6.58 |
+| starting disappear | 5 | 0 | 2 | 3.66 | 6.56 |
+| start seeing | 5 | 0 | 3 | 3.66 | 6.56 |
+| saas capital | 5 | 0 | 3 | 3.66 | 6.56 |
 
 ## Rising phrases (3-word)
 
@@ -40,31 +40,31 @@ Window: last **7d** (231 posts) vs. prior **38d** (404 posts).
 
 | term | now | before | docs | lift | score |
 |---|---:|---:|---:|---:|---:|
-| free cash flow | 23 | 9 | 7 | 2.16 | 6.86 |
-| as-told-to story based | 4 | 0 | 2 | 3.35 | 5.4 |
-| story based conversation | 4 | 0 | 2 | 3.35 | 5.4 |
-| piece edited length | 4 | 0 | 2 | 3.35 | 5.4 |
-| operating cash flow | 4 | 0 | 3 | 3.35 | 5.4 |
-| ultimately willing pay | 4 | 0 | 2 | 3.35 | 5.4 |
-| billion run rate | 4 | 0 | 2 | 3.35 | 5.4 |
-| small business administration | 4 | 0 | 2 | 3.35 | 5.4 |
-| every business owner | 5 | 1 | 2 | 2.48 | 4.44 |
-| data silos marketing | 3 | 0 | 2 | 3.07 | 4.25 |
-| silos marketing sales | 3 | 0 | 2 | 3.07 | 4.25 |
-| completely different depending | 3 | 0 | 3 | 3.07 | 4.25 |
-| cash flow business | 3 | 0 | 3 | 3.07 | 4.25 |
-| people actually bought | 3 | 0 | 2 | 3.07 | 4.25 |
-| take next step | 3 | 0 | 2 | 3.07 | 4.25 |
-| saas capital index | 3 | 0 | 2 | 3.07 | 4.25 |
-| edited length clarity | 6 | 2 | 3 | 2.15 | 4.19 |
-| small business ideas | 11 | 7 | 3 | 1.66 | 4.12 |
-| small teams early-stage | 2 | 0 | 2 | 2.66 | 2.92 |
-| data marketing sales | 2 | 0 | 2 | 2.66 | 2.92 |
-| proposed data center | 2 | 0 | 2 | 2.66 | 2.92 |
-| contributors takeaways values | 2 | 0 | 2 | 2.66 | 2.92 |
-| tell real story | 2 | 0 | 2 | 2.66 | 2.92 |
-| don run process | 2 | 0 | 2 | 2.66 | 2.92 |
-| carries real cost | 2 | 0 | 2 | 2.66 | 2.92 |
+| free cash flow | 22 | 10 | 6 | 2.11 | 6.62 |
+| billion run rate | 4 | 0 | 2 | 3.45 | 5.55 |
+| small business administration | 4 | 0 | 2 | 3.45 | 5.55 |
+| every business owner | 5 | 1 | 2 | 2.57 | 4.61 |
+| cash flow business | 3 | 0 | 3 | 3.16 | 4.38 |
+| people actually bought | 3 | 0 | 2 | 3.16 | 4.38 |
+| take next step | 3 | 0 | 2 | 3.16 | 4.38 |
+| net dollar retention | 3 | 0 | 3 | 3.16 | 4.38 |
+| saas capital index | 3 | 0 | 2 | 3.16 | 4.38 |
+| small business ideas | 11 | 7 | 3 | 1.75 | 4.36 |
+| enterprise software company | 2 | 0 | 2 | 2.76 | 3.03 |
+| around four months | 2 | 0 | 2 | 2.76 | 3.03 |
+| half billion revenue | 2 | 0 | 2 | 2.76 | 3.03 |
+| charge per seat | 2 | 0 | 2 | 2.76 | 3.03 |
+| private b2b companies | 2 | 0 | 2 | 2.76 | 3.03 |
+| b2b software companies | 2 | 0 | 2 | 2.76 | 3.03 |
+| market big enough | 2 | 0 | 2 | 2.76 | 3.03 |
+| ongoing capital needs | 2 | 0 | 2 | 2.76 | 3.03 |
+| create opportunities growth | 2 | 0 | 2 | 2.76 | 3.03 |
+| revenue growth four | 2 | 0 | 2 | 2.76 | 3.03 |
+| growth four points | 2 | 0 | 2 | 2.76 | 3.03 |
+| revenue grew faster | 2 | 0 | 2 | 2.76 | 3.03 |
+| rent home business | 2 | 0 | 2 | 2.76 | 3.03 |
+| ebitda starts conversation | 2 | 0 | 2 | 2.76 | 3.03 |
+| pay premium multiples | 2 | 0 | 2 | 2.76 | 3.03 |
 
 ## Rising single terms
 
@@ -72,39 +72,39 @@ Window: last **7d** (231 posts) vs. prior **38d** (404 posts).
 
 | term | now | before | docs | lift | score |
 |---|---:|---:|---:|---:|---:|
-| ebitda | 51 | 0 | 3 | 5.87 | 23.18 |
-| lenders | 13 | 0 | 4 | 4.5 | 11.87 |
-| rung | 13 | 0 | 2 | 4.5 | 11.87 |
-| billings | 13 | 0 | 2 | 4.5 | 11.87 |
-| openrouter | 12 | 0 | 3 | 4.42 | 11.33 |
-| invented | 12 | 0 | 5 | 4.42 | 11.33 |
-| lady | 12 | 0 | 2 | 4.42 | 11.33 |
-| pocket | 18 | 1 | 2 | 3.73 | 10.97 |
-| breakthroughs | 18 | 1 | 2 | 3.73 | 10.97 |
-| nvidia | 22 | 2 | 3 | 3.42 | 10.71 |
-| consolidation | 32 | 5 | 6 | 3.0 | 10.49 |
-| earth | 10 | 0 | 4 | 4.24 | 10.16 |
-| starbucks | 10 | 0 | 3 | 4.24 | 10.16 |
-| workday | 10 | 0 | 2 | 4.24 | 10.16 |
-| family | 77 | 27 | 8 | 2.27 | 9.89 |
-| china | 9 | 0 | 4 | 4.13 | 9.51 |
-| sazerac | 9 | 0 | 2 | 4.13 | 9.51 |
-| deduction | 9 | 0 | 2 | 4.13 | 9.51 |
-| relatives | 9 | 0 | 2 | 4.13 | 9.51 |
-| dolly | 9 | 0 | 3 | 4.13 | 9.51 |
-| parton | 9 | 0 | 3 | 4.13 | 9.51 |
-| fin | 8 | 0 | 2 | 4.01 | 8.82 |
-| cash | 89 | 43 | 13 | 1.96 | 8.8 |
-| taxes | 16 | 2 | 5 | 3.1 | 8.77 |
-| earnings | 33 | 9 | 4 | 2.49 | 8.77 |
+| ebitda | 47 | 4 | 2 | 3.68 | 14.23 |
+| nvidia | 34 | 2 | 4 | 3.94 | 14.01 |
+| dolly | 15 | 0 | 4 | 4.73 | 13.12 |
+| starbucks | 14 | 0 | 5 | 4.66 | 12.63 |
+| rung | 13 | 0 | 2 | 4.59 | 12.11 |
+| billings | 13 | 0 | 2 | 4.59 | 12.11 |
+| lady | 12 | 0 | 2 | 4.51 | 11.56 |
+| hugging | 12 | 0 | 3 | 4.51 | 11.56 |
+| parton | 12 | 0 | 4 | 4.51 | 11.56 |
+| pocket | 18 | 1 | 2 | 3.82 | 11.23 |
+| breakthroughs | 18 | 1 | 2 | 3.82 | 11.23 |
+| uber | 27 | 4 | 2 | 3.12 | 10.4 |
+| silver | 10 | 0 | 2 | 4.33 | 10.37 |
+| workday | 10 | 0 | 2 | 4.33 | 10.37 |
+| family | 77 | 28 | 8 | 2.32 | 10.13 |
+| band | 15 | 1 | 4 | 3.63 | 10.07 |
+| united | 18 | 2 | 7 | 3.3 | 9.73 |
+| sazerac | 9 | 0 | 2 | 4.22 | 9.72 |
+| deduction | 9 | 0 | 2 | 4.22 | 9.72 |
+| relatives | 9 | 0 | 2 | 4.22 | 9.72 |
+| breakthrough | 14 | 1 | 3 | 3.56 | 9.65 |
+| retailers | 8 | 0 | 3 | 4.1 | 9.02 |
+| fin | 8 | 0 | 2 | 4.1 | 9.02 |
+| stripe | 26 | 7 | 5 | 2.57 | 8.48 |
+| mission | 27 | 8 | 6 | 2.49 | 8.28 |
 
 ## Stable core (highest doc-frequency, last window)
 
 These are table stakes — if you don't cover them you look absent.
 
-- **expressed entrepreneur** — appears in 27/231 posts
-- **entrepreneur contributors** — appears in 27/231 posts
-- **opinions expressed** — appears in 27/231 posts
+- **expressed entrepreneur** — appears in 29/230 posts
+- **opinions expressed** — appears in 29/230 posts
+- **entrepreneur contributors** — appears in 29/230 posts
 
 ## Question headlines (last 30d)
 
@@ -173,35 +173,35 @@ Each of these is a query someone decided was worth a whole page. This is your AI
 
 ## Publishing volume by source (30d)
 
-- Inc.com: 456
-- Hacker News: 404
-- WIRED: 254
-- Finextra Research Headlines: 187
-- TechCrunch: 120
-- PYMNTS |: 120
-- AI News & Artificial Intelligence | TechCrunch: 113
-- The New Stack: 107
-- Ars Technica: 103
-- Entrepreneur – Latest: 101
-- InfoQ: 97
-- Search Engine Journal: 88
-- Digiday: 69
-- The Fintech Times: 62
-- MarTech: 49
-- Banking Dive - Latest News: 48
-- AI | The Verge: 48
-- Marketing Dive - Latest News: 47
-- AdExchanger: 47
-- AI - Ars Technica: 44
-- SaaStrAI: 35
+- Inc.com: 490
+- Hacker News: 433
+- WIRED: 273
+- Finextra Research Headlines: 194
+- PYMNTS |: 130
+- TechCrunch: 128
+- AI News & Artificial Intelligence | TechCrunch: 118
+- The New Stack: 112
+- Entrepreneur – Latest: 110
+- Ars Technica: 110
+- InfoQ: 103
+- Search Engine Journal: 94
+- Digiday: 72
+- The Fintech Times: 65
+- MarTech: 53
+- Banking Dive - Latest News: 52
+- AdExchanger: 51
+- Marketing Dive - Latest News: 50
+- AI | The Verge: 49
+- AI - Ars Technica: 46
+- SaaStrAI: 37
 - Marketing: 27
-- Artificial intelligence – MIT Technology Review: 23
-- Semrush blog: 22
+- Semrush blog: 23
+- Artificial intelligence – MIT Technology Review: 22
 - The GitHub Blog: 18
 - Stack Overflow Blog: 18
 - moz (en-US): 13
+- dentsu.com: 6
 - The Pragmatic Engineer: 6
-- dentsu.com: 5
-- SEO Blog by Ahrefs: 5
+- SEO Blog by Ahrefs: 6
 - AI | VentureBeat: 4
 - Backlinko: 3

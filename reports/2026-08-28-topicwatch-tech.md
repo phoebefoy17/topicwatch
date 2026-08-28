@@ -1,6 +1,6 @@
 # Topic watch — tech — 2026-08-28
 
-Window: last **7d** (346 posts) vs. prior **38d** (535 posts).
+Window: last **7d** (325 posts) vs. prior **38d** (619 posts).
 
 ## Rising phrases (2-word)
 
@@ -8,31 +8,31 @@ Window: last **7d** (346 posts) vs. prior **38d** (535 posts).
 
 | term | now | before | docs | lift | score |
 |---|---:|---:|---:|---:|---:|
-| mac mini | 78 | 0 | 6 | 5.47 | 23.89 |
-| mac studio | 73 | 0 | 5 | 5.4 | 23.25 |
-| home depot | 50 | 0 | 4 | 5.02 | 19.75 |
-| major mode | 36 | 0 | 2 | 4.7 | 16.95 |
-| earth moon | 30 | 0 | 2 | 4.51 | 15.5 |
-| lunar orbiter | 26 | 0 | 3 | 4.37 | 14.4 |
-| core cpu | 25 | 0 | 6 | 4.33 | 14.11 |
-| prefix argument | 22 | 0 | 2 | 4.2 | 13.18 |
-| blade runner | 21 | 0 | 4 | 4.16 | 12.85 |
-| core gpu | 21 | 0 | 5 | 4.16 | 12.85 |
-| unified memory | 33 | 1 | 7 | 3.51 | 12.38 |
-| major modes | 18 | 0 | 2 | 4.0 | 11.78 |
-| studio ultra | 17 | 0 | 4 | 3.94 | 11.4 |
-| meta quest | 16 | 0 | 2 | 3.88 | 11.0 |
-| moon surface | 16 | 0 | 2 | 3.88 | 11.0 |
-| door handles | 15 | 0 | 2 | 3.82 | 10.59 |
-| mini pro | 15 | 0 | 2 | 3.82 | 10.59 |
-| chinese lidar | 14 | 0 | 2 | 3.75 | 10.16 |
-| parental controls | 14 | 0 | 5 | 3.75 | 10.16 |
-| compared mac | 14 | 0 | 2 | 3.75 | 10.16 |
-| flight attendants | 13 | 0 | 2 | 3.68 | 9.7 |
-| docking stations | 12 | 0 | 3 | 3.6 | 9.22 |
-| state ags | 12 | 0 | 4 | 3.6 | 9.22 |
-| dark energy | 12 | 0 | 2 | 3.6 | 9.22 |
-| vent mount | 12 | 0 | 2 | 3.6 | 9.22 |
+| mac mini | 79 | 0 | 7 | 5.72 | 25.07 |
+| mac studio | 73 | 0 | 5 | 5.64 | 24.29 |
+| major mode | 36 | 0 | 2 | 4.94 | 17.82 |
+| earth moon | 30 | 0 | 2 | 4.75 | 16.32 |
+| design reach | 29 | 0 | 2 | 4.72 | 16.05 |
+| core cpu | 25 | 0 | 6 | 4.57 | 14.89 |
+| prefix argument | 22 | 0 | 2 | 4.44 | 13.93 |
+| core gpu | 22 | 0 | 6 | 4.44 | 13.93 |
+| unified memory | 34 | 1 | 8 | 3.78 | 13.44 |
+| major modes | 18 | 0 | 2 | 4.24 | 12.49 |
+| studio ultra | 17 | 0 | 4 | 4.19 | 12.1 |
+| moon surface | 16 | 0 | 2 | 4.12 | 11.69 |
+| mini pro | 15 | 0 | 2 | 4.06 | 11.26 |
+| parental controls | 14 | 0 | 5 | 3.99 | 10.81 |
+| compared mac | 14 | 0 | 2 | 3.99 | 10.81 |
+| neural engine | 13 | 0 | 6 | 3.92 | 10.34 |
+| hot chips | 12 | 0 | 4 | 3.84 | 9.84 |
+| vent mount | 12 | 0 | 2 | 3.84 | 9.84 |
+| neural accelerators | 12 | 0 | 4 | 3.84 | 9.84 |
+| apple card | 12 | 0 | 2 | 3.84 | 9.84 |
+| codes september | 12 | 0 | 4 | 3.84 | 9.84 |
+| hacker news | 45 | 7 | 2 | 2.45 | 9.38 |
+| emacs emacs | 11 | 0 | 2 | 3.75 | 9.32 |
+| hide email | 11 | 0 | 2 | 3.75 | 9.32 |
+| youtube tiktok | 11 | 0 | 2 | 3.75 | 9.32 |
 
 ## Rising phrases (3-word)
 
@@ -40,31 +40,31 @@ Window: last **7d** (346 posts) vs. prior **38d** (535 posts).
 
 | term | now | before | docs | lift | score |
 |---|---:|---:|---:|---:|---:|
-| mac studio ultra | 17 | 0 | 4 | 3.94 | 11.4 |
-| core cpu core | 16 | 0 | 4 | 3.88 | 11.0 |
-| cpu core gpu | 16 | 0 | 4 | 3.88 | 11.0 |
-| mac mini pro | 15 | 0 | 2 | 3.82 | 10.59 |
-| laptop docking stations | 12 | 0 | 3 | 3.6 | 9.22 |
-| unified memory bandwidth | 11 | 0 | 4 | 3.51 | 8.72 |
-| rgb stripe oled | 9 | 0 | 2 | 3.31 | 7.62 |
-| grand theft auto | 9 | 0 | 4 | 3.31 | 7.62 |
-| core neural engine | 9 | 0 | 4 | 3.31 | 7.62 |
-| promo codes september | 9 | 0 | 3 | 3.31 | 7.62 |
-| home theater projectors | 8 | 0 | 2 | 3.19 | 7.01 |
-| titan noir max | 8 | 0 | 2 | 3.19 | 7.01 |
-| mac mini mac | 8 | 0 | 3 | 3.19 | 7.01 |
-| dual core neural | 8 | 0 | 4 | 3.19 | 7.01 |
-| apple mac mini | 8 | 0 | 3 | 3.19 | 7.01 |
-| apple intelligence features | 8 | 0 | 4 | 3.19 | 7.01 |
-| mini mac studio | 7 | 0 | 2 | 3.06 | 6.36 |
-| apple beta software | 7 | 0 | 3 | 3.06 | 6.36 |
-| beta software program | 7 | 0 | 3 | 3.06 | 6.36 |
-| codes deals august | 6 | 0 | 2 | 2.9 | 5.65 |
-| photograph john brandon | 6 | 0 | 2 | 2.9 | 5.65 |
-| mac studio systems | 6 | 0 | 2 | 2.9 | 5.65 |
-| model hardware standard | 6 | 0 | 2 | 2.9 | 5.65 |
-| virtual private network | 5 | 0 | 4 | 2.72 | 4.88 |
-| california attorney general | 5 | 0 | 4 | 2.72 | 4.88 |
+| mac studio ultra | 17 | 0 | 4 | 4.19 | 12.1 |
+| core cpu core | 16 | 0 | 4 | 4.12 | 11.69 |
+| cpu core gpu | 16 | 0 | 4 | 4.12 | 11.69 |
+| mac mini pro | 15 | 0 | 2 | 4.06 | 11.26 |
+| promo codes september | 12 | 0 | 4 | 3.84 | 9.84 |
+| unified memory bandwidth | 11 | 0 | 4 | 3.75 | 9.32 |
+| rgb stripe oled | 9 | 0 | 2 | 3.55 | 8.17 |
+| grand theft auto | 9 | 0 | 4 | 3.55 | 8.17 |
+| core neural engine | 9 | 0 | 4 | 3.55 | 8.17 |
+| home theater projectors | 8 | 0 | 2 | 3.43 | 7.54 |
+| titan noir max | 8 | 0 | 2 | 3.43 | 7.54 |
+| mac mini mac | 8 | 0 | 3 | 3.43 | 7.54 |
+| dual core neural | 8 | 0 | 4 | 3.43 | 7.54 |
+| apple mac mini | 8 | 0 | 3 | 3.43 | 7.54 |
+| apple intelligence features | 8 | 0 | 4 | 3.43 | 7.54 |
+| space transportation policy | 7 | 0 | 2 | 3.3 | 6.86 |
+| mini mac studio | 7 | 0 | 2 | 3.3 | 6.86 |
+| apple beta software | 7 | 0 | 3 | 3.3 | 6.86 |
+| beta software program | 7 | 0 | 3 | 3.3 | 6.86 |
+| laptop docking stations | 11 | 1 | 2 | 2.65 | 6.59 |
+| mac studio systems | 6 | 0 | 2 | 3.14 | 6.12 |
+| model hardware standard | 6 | 0 | 2 | 3.14 | 6.12 |
+| public records request | 6 | 0 | 2 | 3.14 | 6.12 |
+| alpharetta police department | 6 | 0 | 2 | 3.14 | 6.12 |
+| kennedy space center | 5 | 0 | 3 | 2.96 | 5.31 |
 
 ## Rising single terms
 
@@ -72,37 +72,37 @@ Window: last **7d** (346 posts) vs. prior **38d** (535 posts).
 
 | term | now | before | docs | lift | score |
 |---|---:|---:|---:|---:|---:|
-| c-x | 109 | 0 | 2 | 5.8 | 27.29 |
-| tree-sitter | 74 | 0 | 2 | 5.42 | 23.39 |
-| raid | 44 | 0 | 4 | 4.9 | 18.64 |
-| tooltip | 44 | 0 | 2 | 4.9 | 18.64 |
-| emacs | 350 | 23 | 3 | 3.12 | 18.29 |
-| nordvpn | 42 | 0 | 2 | 4.85 | 18.25 |
-| moon | 351 | 26 | 12 | 3.0 | 17.62 |
-| lidar | 35 | 0 | 3 | 4.67 | 16.73 |
-| orbiter | 32 | 0 | 3 | 4.58 | 16.01 |
-| pebble | 32 | 0 | 3 | 4.58 | 16.01 |
-| oura | 31 | 0 | 2 | 4.55 | 15.76 |
-| vent | 31 | 0 | 3 | 4.55 | 15.76 |
-| birdfy | 28 | 0 | 2 | 4.45 | 14.97 |
-| lunar | 85 | 4 | 5 | 3.36 | 14.96 |
-| hbm | 27 | 0 | 2 | 4.41 | 14.69 |
-| c-c | 45 | 1 | 2 | 3.82 | 14.63 |
-| observer | 58 | 2 | 3 | 3.56 | 14.53 |
-| mit | 154 | 13 | 7 | 2.85 | 14.4 |
-| nil | 66 | 3 | 3 | 3.36 | 14.12 |
-| apple.com | 25 | 0 | 3 | 4.33 | 14.12 |
-| gta | 25 | 0 | 3 | 4.33 | 14.12 |
-| ags | 24 | 0 | 4 | 4.29 | 13.81 |
-| aaron | 80 | 5 | 2 | 3.1 | 13.61 |
-| cunningham | 23 | 0 | 2 | 4.25 | 13.5 |
-| readout | 22 | 0 | 2 | 4.2 | 13.18 |
+| c-x | 109 | 0 | 2 | 6.05 | 28.42 |
+| tree-sitter | 74 | 0 | 2 | 5.66 | 24.43 |
+| raid | 45 | 0 | 5 | 5.16 | 19.76 |
+| tooltip | 44 | 0 | 2 | 5.14 | 19.56 |
+| emacs | 349 | 24 | 2 | 3.32 | 19.43 |
+| hbm | 31 | 0 | 3 | 4.79 | 16.59 |
+| vent | 31 | 0 | 3 | 4.79 | 16.59 |
+| birdfy | 28 | 0 | 2 | 4.69 | 15.78 |
+| c-c | 45 | 1 | 2 | 4.06 | 15.55 |
+| observer | 58 | 2 | 3 | 3.81 | 15.52 |
+| alpharetta | 27 | 0 | 2 | 4.65 | 15.5 |
+| dredge | 26 | 0 | 2 | 4.61 | 15.2 |
+| apple.com | 25 | 0 | 3 | 4.57 | 14.9 |
+| gta | 25 | 0 | 3 | 4.57 | 14.9 |
+| moon | 330 | 50 | 10 | 2.54 | 14.73 |
+| aaron | 80 | 5 | 2 | 3.34 | 14.67 |
+| mit | 151 | 16 | 4 | 2.88 | 14.44 |
+| cunningham | 23 | 0 | 2 | 4.49 | 14.27 |
+| parton | 23 | 0 | 2 | 4.49 | 14.27 |
+| pg27ucwm | 22 | 0 | 2 | 4.45 | 13.94 |
+| kindles | 21 | 0 | 2 | 4.4 | 13.6 |
+| gemm | 19 | 0 | 2 | 4.3 | 12.88 |
+| eruption | 19 | 0 | 2 | 4.3 | 12.88 |
+| grains | 19 | 0 | 3 | 4.3 | 12.88 |
+| tooltips | 19 | 0 | 3 | 4.3 | 12.88 |
 
 ## Stable core (highest doc-frequency, last window)
 
 These are table stakes — if you don't cover them you look absent.
 
-- **social media** — appears in 38/346 posts
+- **social media** — appears in 36/325 posts
 
 ## Question headlines (last 30d)
 
@@ -171,35 +171,35 @@ Each of these is a query someone decided was worth a whole page. This is your AI
 
 ## Publishing volume by source (30d)
 
-- Inc.com: 456
-- Hacker News: 404
-- WIRED: 254
-- Finextra Research Headlines: 187
-- TechCrunch: 120
-- PYMNTS |: 120
-- AI News & Artificial Intelligence | TechCrunch: 113
-- The New Stack: 107
-- Ars Technica: 103
-- Entrepreneur – Latest: 101
-- InfoQ: 97
-- Search Engine Journal: 88
-- Digiday: 69
-- The Fintech Times: 62
-- MarTech: 49
-- Banking Dive - Latest News: 48
-- AI | The Verge: 48
-- Marketing Dive - Latest News: 47
-- AdExchanger: 47
-- AI - Ars Technica: 44
-- SaaStrAI: 35
+- Inc.com: 490
+- Hacker News: 433
+- WIRED: 273
+- Finextra Research Headlines: 194
+- PYMNTS |: 130
+- TechCrunch: 128
+- AI News & Artificial Intelligence | TechCrunch: 118
+- The New Stack: 112
+- Entrepreneur – Latest: 110
+- Ars Technica: 110
+- InfoQ: 103
+- Search Engine Journal: 94
+- Digiday: 72
+- The Fintech Times: 65
+- MarTech: 53
+- Banking Dive - Latest News: 52
+- AdExchanger: 51
+- Marketing Dive - Latest News: 50
+- AI | The Verge: 49
+- AI - Ars Technica: 46
+- SaaStrAI: 37
 - Marketing: 27
-- Artificial intelligence – MIT Technology Review: 23
-- Semrush blog: 22
+- Semrush blog: 23
+- Artificial intelligence – MIT Technology Review: 22
 - The GitHub Blog: 18
 - Stack Overflow Blog: 18
 - moz (en-US): 13
+- dentsu.com: 6
 - The Pragmatic Engineer: 6
-- dentsu.com: 5
-- SEO Blog by Ahrefs: 5
+- SEO Blog by Ahrefs: 6
 - AI | VentureBeat: 4
 - Backlinko: 3

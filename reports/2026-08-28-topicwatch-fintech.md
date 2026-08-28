@@ -1,6 +1,6 @@
 # Topic watch — fintech — 2026-08-28
 
-Window: last **7d** (162 posts) vs. prior **38d** (257 posts).
+Window: last **7d** (158 posts) vs. prior **38d** (285 posts).
 
 ## Rising phrases (2-word)
 
@@ -8,31 +8,31 @@ Window: last **7d** (162 posts) vs. prior **38d** (257 posts).
 
 | term | now | before | docs | lift | score |
 |---|---:|---:|---:|---:|---:|
-| love preferred | 30 | 0 | 30 | 4.45 | 15.29 |
-| preferred source | 30 | 0 | 30 | 4.45 | 15.29 |
-| source news | 30 | 0 | 30 | 4.45 | 15.29 |
-| news please | 30 | 0 | 30 | 4.45 | 15.29 |
-| please add | 30 | 0 | 30 | 4.45 | 15.29 |
-| add preferred | 30 | 0 | 30 | 4.45 | 15.29 |
-| preferred sources | 30 | 0 | 30 | 4.45 | 15.29 |
-| sources list | 30 | 0 | 30 | 4.45 | 15.29 |
-| list news | 30 | 0 | 30 | 4.45 | 15.29 |
-| news data | 30 | 0 | 30 | 4.45 | 15.29 |
-| data interviews | 30 | 0 | 30 | 4.45 | 15.29 |
-| interviews show | 30 | 0 | 30 | 4.45 | 15.29 |
-| show feed | 30 | 0 | 30 | 4.45 | 15.29 |
-| feed thanks | 30 | 0 | 30 | 4.45 | 15.29 |
-| financial firms | 12 | 0 | 2 | 3.54 | 9.07 |
-| social security | 12 | 0 | 2 | 3.54 | 9.07 |
-| event contracts | 8 | 0 | 2 | 3.13 | 6.88 |
-| apple pay | 8 | 0 | 5 | 3.13 | 6.88 |
-| task force | 8 | 0 | 3 | 3.13 | 6.88 |
-| autonomous agents | 7 | 0 | 4 | 3.0 | 6.23 |
-| community bank | 7 | 0 | 3 | 3.0 | 6.23 |
-| corporate finance | 7 | 0 | 2 | 3.0 | 6.23 |
-| nacha preferred | 7 | 0 | 2 | 3.0 | 6.23 |
-| credit unions | 19 | 3 | 5 | 2.05 | 6.14 |
-| credit union | 19 | 3 | 3 | 2.05 | 6.14 |
+| love preferred | 40 | 0 | 40 | 4.89 | 18.16 |
+| preferred source | 40 | 0 | 40 | 4.89 | 18.16 |
+| source news | 40 | 0 | 40 | 4.89 | 18.16 |
+| news please | 40 | 0 | 40 | 4.89 | 18.16 |
+| please add | 40 | 0 | 40 | 4.89 | 18.16 |
+| add preferred | 40 | 0 | 40 | 4.89 | 18.16 |
+| preferred sources | 40 | 0 | 40 | 4.89 | 18.16 |
+| sources list | 40 | 0 | 40 | 4.89 | 18.16 |
+| list news | 40 | 0 | 40 | 4.89 | 18.16 |
+| news data | 40 | 0 | 40 | 4.89 | 18.16 |
+| data interviews | 40 | 0 | 40 | 4.89 | 18.16 |
+| interviews show | 40 | 0 | 40 | 4.89 | 18.16 |
+| show feed | 40 | 0 | 40 | 4.89 | 18.16 |
+| feed thanks | 40 | 0 | 40 | 4.89 | 18.16 |
+| tokenized deposits | 15 | 0 | 3 | 3.91 | 10.84 |
+| chief officer | 9 | 0 | 3 | 3.4 | 7.82 |
+| task force | 9 | 0 | 4 | 3.4 | 7.82 |
+| apple pay | 8 | 0 | 5 | 3.28 | 7.21 |
+| corporate finance | 8 | 0 | 3 | 3.28 | 7.21 |
+| nacha preferred | 7 | 0 | 2 | 3.15 | 6.54 |
+| swift blockchain-based | 6 | 0 | 2 | 2.99 | 5.82 |
+| bank uae | 6 | 0 | 3 | 2.99 | 5.82 |
+| digital euro | 6 | 0 | 3 | 2.99 | 5.82 |
+| hits valuation | 6 | 0 | 2 | 2.99 | 5.82 |
+| portfolio management | 6 | 0 | 3 | 2.99 | 5.82 |
 
 ## Rising phrases (3-word)
 
@@ -40,31 +40,31 @@ Window: last **7d** (162 posts) vs. prior **38d** (257 posts).
 
 | term | now | before | docs | lift | score |
 |---|---:|---:|---:|---:|---:|
-| love preferred source | 30 | 0 | 30 | 4.45 | 15.28 |
-| preferred source news | 30 | 0 | 30 | 4.45 | 15.28 |
-| source news please | 30 | 0 | 30 | 4.45 | 15.28 |
-| news please add | 30 | 0 | 30 | 4.45 | 15.28 |
-| please add preferred | 30 | 0 | 30 | 4.45 | 15.28 |
-| add preferred sources | 30 | 0 | 30 | 4.45 | 15.28 |
-| preferred sources list | 30 | 0 | 30 | 4.45 | 15.28 |
-| sources list news | 30 | 0 | 30 | 4.45 | 15.28 |
-| list news data | 30 | 0 | 30 | 4.45 | 15.28 |
-| news data interviews | 30 | 0 | 30 | 4.45 | 15.28 |
-| data interviews show | 30 | 0 | 30 | 4.45 | 15.28 |
-| interviews show feed | 30 | 0 | 30 | 4.45 | 15.28 |
-| show feed thanks | 30 | 0 | 30 | 4.45 | 15.28 |
-| swift blockchain-based ledger | 6 | 0 | 2 | 2.84 | 5.53 |
-| told pymnts interview | 5 | 0 | 5 | 2.66 | 4.76 |
-| central bank uae | 5 | 0 | 3 | 2.66 | 4.76 |
-| corporate bank account | 5 | 0 | 2 | 2.66 | 4.76 |
-| quantum-readiness task force | 5 | 0 | 2 | 2.66 | 4.76 |
-| digital asset businesses | 4 | 0 | 2 | 2.44 | 3.92 |
-| professional services firms | 4 | 0 | 3 | 2.44 | 3.92 |
-| instant payments capital | 4 | 0 | 2 | 2.44 | 3.92 |
-| payments capital allowing | 4 | 0 | 2 | 2.44 | 3.92 |
-| capital allowing treasury | 4 | 0 | 2 | 2.44 | 3.92 |
-| allowing treasury pay | 4 | 0 | 2 | 2.44 | 3.92 |
-| treasury pay later | 4 | 0 | 2 | 2.44 | 3.92 |
+| love preferred source | 40 | 0 | 40 | 4.89 | 18.15 |
+| preferred source news | 40 | 0 | 40 | 4.89 | 18.15 |
+| source news please | 40 | 0 | 40 | 4.89 | 18.15 |
+| news please add | 40 | 0 | 40 | 4.89 | 18.15 |
+| please add preferred | 40 | 0 | 40 | 4.89 | 18.15 |
+| add preferred sources | 40 | 0 | 40 | 4.89 | 18.15 |
+| preferred sources list | 40 | 0 | 40 | 4.89 | 18.15 |
+| sources list news | 40 | 0 | 40 | 4.89 | 18.15 |
+| list news data | 40 | 0 | 40 | 4.89 | 18.15 |
+| news data interviews | 40 | 0 | 40 | 4.89 | 18.15 |
+| data interviews show | 40 | 0 | 40 | 4.89 | 18.15 |
+| interviews show feed | 40 | 0 | 40 | 4.89 | 18.15 |
+| show feed thanks | 40 | 0 | 40 | 4.89 | 18.15 |
+| swift blockchain-based ledger | 6 | 0 | 2 | 2.99 | 5.82 |
+| central bank uae | 5 | 0 | 3 | 2.81 | 5.03 |
+| corporate bank account | 5 | 0 | 2 | 2.81 | 5.03 |
+| quantum-readiness task force | 5 | 0 | 2 | 2.81 | 5.03 |
+| bank account verification | 5 | 0 | 2 | 2.81 | 5.03 |
+| million canadian dollars | 5 | 0 | 2 | 2.81 | 5.03 |
+| standard chartered hsbc | 4 | 0 | 2 | 2.58 | 4.16 |
+| interbank transaction swift | 4 | 0 | 2 | 2.58 | 4.16 |
+| transaction swift blockchain-based | 4 | 0 | 2 | 2.58 | 4.16 |
+| pay google pay | 4 | 0 | 4 | 2.58 | 4.16 |
+| sec rulemaking giving | 4 | 0 | 2 | 2.58 | 4.16 |
+| rulemaking giving corporate | 4 | 0 | 2 | 2.58 | 4.16 |
 
 ## Rising single terms
 
@@ -72,53 +72,54 @@ Window: last **7d** (162 posts) vs. prior **38d** (257 posts).
 
 | term | now | before | docs | lift | score |
 |---|---:|---:|---:|---:|---:|
-| preferred | 72 | 1 | 31 | 4.23 | 18.14 |
-| please | 30 | 0 | 30 | 4.45 | 15.29 |
-| ita | 24 | 0 | 2 | 4.23 | 13.61 |
-| thanks | 34 | 1 | 30 | 3.48 | 12.37 |
-| interviews | 31 | 1 | 30 | 3.39 | 11.74 |
-| alabama | 16 | 0 | 4 | 3.82 | 10.83 |
-| nacha | 15 | 0 | 2 | 3.76 | 10.42 |
-| love | 31 | 2 | 31 | 2.88 | 9.96 |
-| feed | 30 | 2 | 30 | 2.84 | 9.76 |
-| inquiry | 13 | 0 | 3 | 3.62 | 9.54 |
-| cme | 13 | 0 | 2 | 3.62 | 9.54 |
-| draftkings | 13 | 0 | 2 | 3.62 | 9.54 |
-| pro | 11 | 0 | 2 | 3.45 | 8.57 |
-| jaywan | 11 | 0 | 2 | 3.45 | 8.57 |
-| bluefin | 11 | 0 | 2 | 3.45 | 8.57 |
-| spain | 29 | 3 | 2 | 2.47 | 8.41 |
-| canada | 28 | 3 | 5 | 2.44 | 8.21 |
-| canadian | 17 | 1 | 3 | 2.79 | 8.05 |
-| natwest | 10 | 0 | 4 | 3.35 | 8.04 |
-| venue | 10 | 0 | 3 | 3.35 | 8.04 |
-| sources | 39 | 6 | 34 | 2.15 | 7.93 |
-| opens | 9 | 0 | 3 | 3.25 | 7.48 |
-| manipulation | 9 | 0 | 3 | 3.25 | 7.48 |
-| duffy | 9 | 0 | 2 | 3.25 | 7.48 |
-| publishers | 9 | 0 | 2 | 3.25 | 7.48 |
+| preferred | 92 | 1 | 41 | 4.62 | 20.95 |
+| please | 40 | 0 | 40 | 4.89 | 18.15 |
+| uganda | 30 | 0 | 2 | 4.6 | 15.8 |
+| thanks | 44 | 1 | 40 | 3.89 | 14.79 |
+| interviews | 41 | 1 | 40 | 3.81 | 14.26 |
+| ita | 24 | 0 | 2 | 4.38 | 14.09 |
+| love | 41 | 2 | 41 | 3.3 | 12.35 |
+| feed | 40 | 2 | 40 | 3.28 | 12.18 |
+| nacha | 15 | 0 | 2 | 3.91 | 10.83 |
+| usd.ai | 15 | 0 | 3 | 3.91 | 10.83 |
+| sweden | 25 | 1 | 2 | 3.32 | 10.82 |
+| ftc | 14 | 0 | 2 | 3.84 | 10.4 |
+| bullish | 14 | 0 | 3 | 3.84 | 10.4 |
+| hardware | 12 | 0 | 6 | 3.68 | 9.45 |
+| jaywan | 11 | 0 | 2 | 3.6 | 8.94 |
+| bluefin | 11 | 0 | 2 | 3.6 | 8.94 |
+| spain | 29 | 3 | 2 | 2.62 | 8.91 |
+| canadian | 18 | 1 | 4 | 2.99 | 8.81 |
+| news | 93 | 22 | 43 | 1.93 | 8.75 |
+| canada | 28 | 3 | 5 | 2.59 | 8.71 |
+| sources | 47 | 8 | 43 | 2.22 | 8.58 |
+| venue | 10 | 0 | 3 | 3.5 | 8.4 |
+| swivel | 10 | 0 | 2 | 3.5 | 8.4 |
+| coupa | 9 | 0 | 2 | 3.4 | 7.82 |
+| fifth | 9 | 0 | 2 | 3.4 | 7.82 |
 
 ## Stable core (highest doc-frequency, last window)
 
 These are table stakes — if you don't cover them you look absent.
 
-- **preferred source** — appears in 30/162 posts
-- **love preferred** — appears in 30/162 posts
-- **feed thanks** — appears in 30/162 posts
-- **news data** — appears in 30/162 posts
-- **show feed** — appears in 30/162 posts
-- **data interviews** — appears in 30/162 posts
-- **list news** — appears in 30/162 posts
-- **source news** — appears in 30/162 posts
-- **add preferred** — appears in 30/162 posts
-- **sources list** — appears in 30/162 posts
-- **interviews show** — appears in 30/162 posts
-- **news please** — appears in 30/162 posts
-- **preferred sources** — appears in 30/162 posts
-- **please add** — appears in 30/162 posts
-- **financial institutions** — appears in 24/162 posts
-- **pymnts intelligence** — appears in 20/162 posts
-- **financial services** — appears in 19/162 posts
+- **sources list** — appears in 40/158 posts
+- **preferred source** — appears in 40/158 posts
+- **news please** — appears in 40/158 posts
+- **add preferred** — appears in 40/158 posts
+- **feed thanks** — appears in 40/158 posts
+- **source news** — appears in 40/158 posts
+- **list news** — appears in 40/158 posts
+- **love preferred** — appears in 40/158 posts
+- **news data** — appears in 40/158 posts
+- **show feed** — appears in 40/158 posts
+- **data interviews** — appears in 40/158 posts
+- **preferred sources** — appears in 40/158 posts
+- **interviews show** — appears in 40/158 posts
+- **please add** — appears in 40/158 posts
+- **pymnts intelligence** — appears in 21/158 posts
+- **financial institutions** — appears in 21/158 posts
+- **financial services** — appears in 20/158 posts
+- **artificial intelligence** — appears in 18/158 posts
 
 ## Question headlines (last 30d)
 
@@ -169,35 +170,35 @@ Each of these is a query someone decided was worth a whole page. This is your AI
 
 ## Publishing volume by source (30d)
 
-- Inc.com: 456
-- Hacker News: 404
-- WIRED: 254
-- Finextra Research Headlines: 187
-- TechCrunch: 120
-- PYMNTS |: 120
-- AI News & Artificial Intelligence | TechCrunch: 113
-- The New Stack: 107
-- Ars Technica: 103
-- Entrepreneur – Latest: 101
-- InfoQ: 97
-- Search Engine Journal: 88
-- Digiday: 69
-- The Fintech Times: 62
-- MarTech: 49
-- Banking Dive - Latest News: 48
-- AI | The Verge: 48
-- Marketing Dive - Latest News: 47
-- AdExchanger: 47
-- AI - Ars Technica: 44
-- SaaStrAI: 35
+- Inc.com: 490
+- Hacker News: 433
+- WIRED: 273
+- Finextra Research Headlines: 194
+- PYMNTS |: 130
+- TechCrunch: 128
+- AI News & Artificial Intelligence | TechCrunch: 118
+- The New Stack: 112
+- Entrepreneur – Latest: 110
+- Ars Technica: 110
+- InfoQ: 103
+- Search Engine Journal: 94
+- Digiday: 72
+- The Fintech Times: 65
+- MarTech: 53
+- Banking Dive - Latest News: 52
+- AdExchanger: 51
+- Marketing Dive - Latest News: 50
+- AI | The Verge: 49
+- AI - Ars Technica: 46
+- SaaStrAI: 37
 - Marketing: 27
-- Artificial intelligence – MIT Technology Review: 23
-- Semrush blog: 22
+- Semrush blog: 23
+- Artificial intelligence – MIT Technology Review: 22
 - The GitHub Blog: 18
 - Stack Overflow Blog: 18
 - moz (en-US): 13
+- dentsu.com: 6
 - The Pragmatic Engineer: 6
-- dentsu.com: 5
-- SEO Blog by Ahrefs: 5
+- SEO Blog by Ahrefs: 6
 - AI | VentureBeat: 4
 - Backlinko: 3

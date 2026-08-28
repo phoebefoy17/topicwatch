@@ -1,6 +1,6 @@
 # Topic watch — software — 2026-08-28
 
-Window: last **7d** (91 posts) vs. prior **38d** (163 posts).
+Window: last **7d** (88 posts) vs. prior **38d** (177 posts).
 
 ## Rising phrases (2-word)
 
@@ -8,31 +8,31 @@ Window: last **7d** (91 posts) vs. prior **38d** (163 posts).
 
 | term | now | before | docs | lift | score |
 |---|---:|---:|---:|---:|---:|
-| thomson reuters | 33 | 0 | 2 | 4.71 | 16.6 |
-| pair programming | 23 | 0 | 3 | 4.35 | 13.81 |
-| claude desktop | 26 | 1 | 3 | 3.37 | 11.11 |
-| memory agent | 15 | 0 | 2 | 3.92 | 10.86 |
-| offline evaluation | 13 | 0 | 2 | 3.78 | 9.96 |
-| jdk jdk | 13 | 0 | 2 | 3.78 | 9.96 |
-| portable computer | 12 | 0 | 2 | 3.7 | 9.48 |
-| files api | 18 | 1 | 2 | 3.0 | 8.84 |
-| cryptographic objects | 8 | 0 | 2 | 3.29 | 7.23 |
-| targeted jdk | 8 | 0 | 2 | 3.29 | 7.23 |
-| computer agent | 8 | 0 | 3 | 3.29 | 7.23 |
-| linux kernel | 16 | 2 | 2 | 2.37 | 6.73 |
-| prompt model | 7 | 0 | 2 | 3.16 | 6.56 |
-| claude browser | 7 | 0 | 2 | 3.16 | 6.56 |
-| data types | 7 | 0 | 2 | 3.16 | 6.56 |
-| preview jep | 7 | 0 | 2 | 3.16 | 6.56 |
-| vector api | 7 | 0 | 2 | 3.16 | 6.56 |
-| garbage collector | 7 | 0 | 2 | 3.16 | 6.56 |
-| cocounsel legal | 7 | 0 | 2 | 3.16 | 6.56 |
-| dgx spark | 7 | 0 | 2 | 3.16 | 6.56 |
-| telemetry data | 7 | 0 | 3 | 3.16 | 6.56 |
-| dependency upgrades | 14 | 2 | 3 | 2.24 | 6.07 |
-| automated checks | 6 | 0 | 3 | 3.0 | 5.84 |
-| third preview | 6 | 0 | 2 | 3.0 | 5.84 |
-| rounds preview | 6 | 0 | 2 | 3.0 | 5.84 |
+| thomson reuters | 33 | 0 | 2 | 4.8 | 16.91 |
+| jdk jdk | 15 | 0 | 3 | 4.01 | 11.11 |
+| memory agent | 15 | 0 | 2 | 4.01 | 11.11 |
+| pair programming | 22 | 1 | 2 | 3.29 | 10.32 |
+| offline evaluation | 13 | 0 | 2 | 3.86 | 10.2 |
+| portable computer | 12 | 0 | 2 | 3.78 | 9.71 |
+| spring boot | 12 | 0 | 2 | 3.78 | 9.71 |
+| claude desktop | 26 | 3 | 3 | 2.61 | 8.61 |
+| cryptographic objects | 8 | 0 | 2 | 3.38 | 7.42 |
+| targeted jdk | 8 | 0 | 2 | 3.38 | 7.42 |
+| computer agent | 8 | 0 | 3 | 3.38 | 7.42 |
+| chinese chips | 8 | 0 | 2 | 3.38 | 7.42 |
+| data types | 7 | 0 | 2 | 3.25 | 6.75 |
+| preview jep | 7 | 0 | 2 | 3.25 | 6.75 |
+| vector api | 7 | 0 | 2 | 3.25 | 6.75 |
+| garbage collector | 7 | 0 | 2 | 3.25 | 6.75 |
+| source created | 7 | 0 | 2 | 3.25 | 6.75 |
+| created author | 7 | 0 | 2 | 3.25 | 6.75 |
+| cocounsel legal | 7 | 0 | 2 | 3.25 | 6.75 |
+| dgx spark | 7 | 0 | 2 | 3.25 | 6.75 |
+| fraud detection | 7 | 0 | 4 | 3.25 | 6.75 |
+| telemetry data | 7 | 0 | 3 | 3.25 | 6.75 |
+| hugging face | 43 | 13 | 10 | 1.77 | 6.68 |
+| dependency upgrades | 14 | 2 | 3 | 2.33 | 6.31 |
+| third preview | 6 | 0 | 2 | 3.09 | 6.02 |
 
 ## Rising phrases (3-word)
 
@@ -40,31 +40,31 @@ Window: last **7d** (91 posts) vs. prior **38d** (163 posts).
 
 | term | now | before | docs | lift | score |
 |---|---:|---:|---:|---:|---:|
-| delivered jdk jdk | 7 | 0 | 2 | 3.16 | 6.56 |
-| rounds preview delivered | 6 | 0 | 2 | 3.0 | 5.84 |
-| jdk jdk feature | 6 | 0 | 2 | 3.0 | 5.84 |
-| targeted jdk jep | 6 | 0 | 2 | 3.0 | 5.84 |
-| westlaw practical law | 6 | 0 | 2 | 3.0 | 5.84 |
-| rebuilt entire editor | 5 | 0 | 2 | 2.82 | 5.05 |
-| agents escape containment | 5 | 0 | 2 | 2.82 | 5.05 |
-| compact object headers | 5 | 0 | 2 | 2.82 | 5.05 |
-| jep pem encodings | 5 | 0 | 2 | 2.82 | 5.05 |
-| pem encodings cryptographic | 5 | 0 | 2 | 2.82 | 5.05 |
-| encodings cryptographic objects | 5 | 0 | 2 | 2.82 | 5.05 |
-| preview delivered jdk | 5 | 0 | 2 | 2.82 | 5.05 |
-| claude code anthropic | 5 | 0 | 2 | 2.82 | 5.05 |
-| hugging face deal | 5 | 0 | 2 | 2.82 | 5.05 |
-| internal developer platform | 4 | 0 | 2 | 2.6 | 4.18 |
-| model context window | 4 | 0 | 3 | 2.6 | 4.18 |
-| jep compact object | 4 | 0 | 2 | 2.6 | 4.18 |
-| company tells stack | 4 | 0 | 2 | 2.6 | 4.18 |
-| thomson reuters thomson | 4 | 0 | 2 | 2.6 | 4.18 |
-| evaluate llms production | 4 | 0 | 2 | 2.6 | 4.18 |
-| bug fixes dependency | 6 | 1 | 2 | 1.9 | 3.7 |
-| fixes dependency upgrades | 6 | 1 | 2 | 1.9 | 3.7 |
-| dependency upgrades features | 6 | 1 | 2 | 1.9 | 3.7 |
-| agentic reinforcement learning | 6 | 1 | 2 | 1.9 | 3.7 |
-| may found release | 15 | 7 | 2 | 1.21 | 3.36 |
+| delivered jdk jdk | 7 | 0 | 2 | 3.25 | 6.75 |
+| source created author | 7 | 0 | 2 | 3.25 | 6.75 |
+| rounds preview delivered | 6 | 0 | 2 | 3.09 | 6.01 |
+| jdk jdk feature | 6 | 0 | 2 | 3.09 | 6.01 |
+| targeted jdk jep | 6 | 0 | 2 | 3.09 | 6.01 |
+| westlaw practical law | 6 | 0 | 2 | 3.09 | 6.01 |
+| qwen deepseek kimi | 6 | 0 | 2 | 3.09 | 6.01 |
+| agents escape containment | 5 | 0 | 2 | 2.91 | 5.21 |
+| compact object headers | 5 | 0 | 2 | 2.91 | 5.21 |
+| jep pem encodings | 5 | 0 | 2 | 2.91 | 5.21 |
+| pem encodings cryptographic | 5 | 0 | 2 | 2.91 | 5.21 |
+| encodings cryptographic objects | 5 | 0 | 2 | 2.91 | 5.21 |
+| preview delivered jdk | 5 | 0 | 2 | 2.91 | 5.21 |
+| claude code anthropic | 5 | 0 | 2 | 2.91 | 5.21 |
+| run qwen deepseek | 5 | 0 | 2 | 2.91 | 5.21 |
+| hugging face deal | 5 | 0 | 2 | 2.91 | 5.21 |
+| jep compact object | 4 | 0 | 2 | 2.69 | 4.32 |
+| company tells stack | 4 | 0 | 2 | 2.69 | 4.32 |
+| thomson reuters thomson | 4 | 0 | 2 | 2.69 | 4.32 |
+| evaluate llms production | 4 | 0 | 2 | 2.69 | 4.32 |
+| bug fixes dependency | 6 | 1 | 2 | 1.99 | 3.88 |
+| fixes dependency upgrades | 6 | 1 | 2 | 1.99 | 3.88 |
+| dependency upgrades features | 6 | 1 | 2 | 1.99 | 3.88 |
+| agentic reinforcement learning | 6 | 1 | 2 | 1.99 | 3.88 |
+| may found release | 15 | 7 | 2 | 1.3 | 3.6 |
 
 ## Rising single terms
 
@@ -72,44 +72,46 @@ Window: last **7d** (91 posts) vs. prior **38d** (163 posts).
 
 | term | now | before | docs | lift | score |
 |---|---:|---:|---:|---:|---:|
-| thomson | 62 | 0 | 2 | 5.34 | 22.13 |
-| spline | 29 | 0 | 2 | 4.58 | 15.59 |
-| neo4j | 28 | 0 | 2 | 4.55 | 15.31 |
-| ollama | 43 | 1 | 3 | 3.88 | 14.67 |
-| duckdb | 22 | 0 | 2 | 4.31 | 13.5 |
-| llvm | 22 | 0 | 2 | 4.31 | 13.5 |
-| graphrag | 21 | 0 | 2 | 4.26 | 13.17 |
-| perplexity | 34 | 1 | 2 | 3.64 | 12.95 |
-| jalape | 19 | 0 | 2 | 4.16 | 12.46 |
-| scene | 17 | 0 | 4 | 4.05 | 11.7 |
-| pem | 17 | 0 | 2 | 4.05 | 11.7 |
-| hast | 17 | 0 | 2 | 4.05 | 11.7 |
-| playground | 16 | 0 | 2 | 3.99 | 11.3 |
-| kafka | 44 | 4 | 5 | 2.8 | 10.67 |
-| reuters | 36 | 3 | 3 | 2.85 | 10.3 |
-| ryan | 58 | 9 | 3 | 2.33 | 9.51 |
-| tdd | 12 | 0 | 2 | 3.7 | 9.49 |
-| ramp | 26 | 2 | 4 | 2.86 | 9.44 |
-| spring | 49 | 7 | 3 | 2.4 | 9.38 |
-| linkedin's | 11 | 0 | 2 | 3.61 | 8.98 |
-| sla | 11 | 0 | 2 | 3.61 | 8.98 |
-| pair | 29 | 3 | 3 | 2.64 | 8.97 |
-| lag | 28 | 3 | 4 | 2.6 | 8.76 |
-| jdk | 60 | 12 | 2 | 2.09 | 8.59 |
-| hermes | 31 | 4 | 5 | 2.45 | 8.5 |
+| thomson | 62 | 0 | 2 | 5.43 | 22.51 |
+| neo4j | 28 | 0 | 2 | 4.64 | 15.62 |
+| duckdb | 22 | 0 | 2 | 4.4 | 13.79 |
+| llvm | 22 | 0 | 2 | 4.4 | 13.79 |
+| graphrag | 21 | 0 | 2 | 4.35 | 13.45 |
+| payment | 69 | 5 | 4 | 3.14 | 13.35 |
+| perplexity | 34 | 1 | 2 | 3.73 | 13.28 |
+| commerce | 19 | 0 | 2 | 4.25 | 12.73 |
+| jalape | 19 | 0 | 2 | 4.25 | 12.73 |
+| pem | 17 | 0 | 2 | 4.14 | 11.96 |
+| hast | 17 | 0 | 2 | 4.14 | 11.96 |
+| boot | 16 | 0 | 3 | 4.08 | 11.56 |
+| playground | 16 | 0 | 2 | 4.08 | 11.56 |
+| spring | 62 | 7 | 4 | 2.73 | 11.29 |
+| kafka | 44 | 4 | 5 | 2.89 | 11.01 |
+| reuters | 36 | 3 | 3 | 2.94 | 10.63 |
+| ollama | 44 | 5 | 3 | 2.69 | 10.25 |
+| jdk | 73 | 12 | 3 | 2.38 | 10.23 |
+| fraud | 28 | 2 | 8 | 3.03 | 10.2 |
+| ryan | 57 | 9 | 2 | 2.4 | 9.76 |
+| linkedin's | 11 | 0 | 2 | 3.7 | 9.2 |
+| sla | 11 | 0 | 2 | 3.7 | 9.2 |
+| lag | 28 | 3 | 4 | 2.69 | 9.07 |
+| on-call | 17 | 1 | 3 | 3.04 | 8.79 |
+| aider | 10 | 0 | 2 | 3.61 | 8.65 |
 
 ## Stable core (highest doc-frequency, last window)
 
 These are table stakes — if you don't cover them you look absent.
 
-- **coding agent** — appears in 16/91 posts
-- **open source** — appears in 14/91 posts
-- **coding agents** — appears in 14/91 posts
-- **pull requests** — appears in 12/91 posts
-- **software engineering** — appears in 12/91 posts
-- **claude code** — appears in 11/91 posts
-- **frontier models** — appears in 11/91 posts
-- **tells stack** — appears in 11/91 posts
+- **coding agent** — appears in 14/88 posts
+- **open source** — appears in 12/88 posts
+- **coding agents** — appears in 12/88 posts
+- **pull requests** — appears in 10/88 posts
+- **claude code** — appears in 10/88 posts
+- **hugging face** — appears in 10/88 posts
+- **software engineering** — appears in 10/88 posts
+- **tells stack** — appears in 10/88 posts
+- **hacker news** — appears in 9/88 posts
+- **even though** — appears in 9/88 posts
 
 ## Question headlines (last 30d)
 
@@ -178,35 +180,35 @@ Each of these is a query someone decided was worth a whole page. This is your AI
 
 ## Publishing volume by source (30d)
 
-- Inc.com: 456
-- Hacker News: 404
-- WIRED: 254
-- Finextra Research Headlines: 187
-- TechCrunch: 120
-- PYMNTS |: 120
-- AI News & Artificial Intelligence | TechCrunch: 113
-- The New Stack: 107
-- Ars Technica: 103
-- Entrepreneur – Latest: 101
-- InfoQ: 97
-- Search Engine Journal: 88
-- Digiday: 69
-- The Fintech Times: 62
-- MarTech: 49
-- Banking Dive - Latest News: 48
-- AI | The Verge: 48
-- Marketing Dive - Latest News: 47
-- AdExchanger: 47
-- AI - Ars Technica: 44
-- SaaStrAI: 35
+- Inc.com: 490
+- Hacker News: 433
+- WIRED: 273
+- Finextra Research Headlines: 194
+- PYMNTS |: 130
+- TechCrunch: 128
+- AI News & Artificial Intelligence | TechCrunch: 118
+- The New Stack: 112
+- Entrepreneur – Latest: 110
+- Ars Technica: 110
+- InfoQ: 103
+- Search Engine Journal: 94
+- Digiday: 72
+- The Fintech Times: 65
+- MarTech: 53
+- Banking Dive - Latest News: 52
+- AdExchanger: 51
+- Marketing Dive - Latest News: 50
+- AI | The Verge: 49
+- AI - Ars Technica: 46
+- SaaStrAI: 37
 - Marketing: 27
-- Artificial intelligence – MIT Technology Review: 23
-- Semrush blog: 22
+- Semrush blog: 23
+- Artificial intelligence – MIT Technology Review: 22
 - The GitHub Blog: 18
 - Stack Overflow Blog: 18
 - moz (en-US): 13
+- dentsu.com: 6
 - The Pragmatic Engineer: 6
-- dentsu.com: 5
-- SEO Blog by Ahrefs: 5
+- SEO Blog by Ahrefs: 6
 - AI | VentureBeat: 4
 - Backlinko: 3

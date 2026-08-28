@@ -1,6 +1,6 @@
 # Topic watch — all — 2026-08-28
 
-Window: last **7d** (1037 posts) vs. prior **38d** (1756 posts).
+Window: last **7d** (1013 posts) vs. prior **38d** (1951 posts).
 
 ## Rising phrases (2-word)
 
@@ -8,31 +8,31 @@ Window: last **7d** (1037 posts) vs. prior **38d** (1756 posts).
 
 | term | now | before | docs | lift | score |
 |---|---:|---:|---:|---:|---:|
-| mac mini | 80 | 0 | 8 | 5.71 | 25.1 |
-| mac studio | 74 | 1 | 6 | 4.54 | 19.58 |
-| sticki rolls | 38 | 0 | 8 | 4.97 | 18.2 |
-| major mode | 36 | 0 | 2 | 4.91 | 17.74 |
-| personalized pricing | 31 | 0 | 2 | 4.76 | 16.51 |
-| news data | 31 | 0 | 31 | 4.76 | 16.51 |
-| data interviews | 31 | 0 | 31 | 4.76 | 16.51 |
-| apple pay | 30 | 0 | 12 | 4.73 | 16.25 |
-| vision pro | 30 | 0 | 4 | 4.73 | 16.25 |
-| earth moon | 30 | 0 | 2 | 4.73 | 16.25 |
-| love preferred | 30 | 0 | 30 | 4.73 | 16.25 |
-| news please | 30 | 0 | 30 | 4.73 | 16.25 |
-| please add | 30 | 0 | 30 | 4.73 | 16.25 |
-| interviews show | 30 | 0 | 30 | 4.73 | 16.25 |
-| show feed | 30 | 0 | 30 | 4.73 | 16.25 |
-| feed thanks | 30 | 0 | 30 | 4.73 | 16.25 |
-| thomson reuters | 47 | 1 | 4 | 4.08 | 15.8 |
-| lunar orbiter | 26 | 0 | 3 | 4.59 | 15.12 |
-| core cpu | 25 | 0 | 6 | 4.55 | 14.82 |
-| pair programming | 23 | 0 | 3 | 4.47 | 14.19 |
-| prefix argument | 22 | 0 | 2 | 4.42 | 13.86 |
-| blade runner | 21 | 0 | 4 | 4.37 | 13.52 |
-| core gpu | 21 | 0 | 5 | 4.37 | 13.52 |
-| toy brand | 19 | 0 | 8 | 4.27 | 12.8 |
-| list news | 30 | 1 | 30 | 3.63 | 12.47 |
+| mac mini | 82 | 0 | 10 | 5.87 | 25.95 |
+| mac studio | 75 | 1 | 7 | 4.69 | 20.29 |
+| please add | 41 | 0 | 41 | 5.18 | 19.36 |
+| news data | 41 | 0 | 41 | 5.18 | 19.36 |
+| data interviews | 41 | 0 | 41 | 5.18 | 19.36 |
+| love preferred | 40 | 0 | 40 | 5.16 | 19.15 |
+| news please | 40 | 0 | 40 | 5.16 | 19.15 |
+| interviews show | 40 | 0 | 40 | 5.16 | 19.15 |
+| show feed | 40 | 0 | 40 | 5.16 | 19.15 |
+| feed thanks | 40 | 0 | 40 | 5.16 | 19.15 |
+| major mode | 36 | 0 | 2 | 5.05 | 18.24 |
+| earth moon | 30 | 0 | 2 | 4.87 | 16.72 |
+| design reach | 29 | 0 | 2 | 4.83 | 16.44 |
+| thomson reuters | 47 | 1 | 4 | 4.22 | 16.33 |
+| core cpu | 25 | 0 | 6 | 4.69 | 15.27 |
+| list news | 40 | 1 | 40 | 4.06 | 15.07 |
+| prefix argument | 22 | 0 | 2 | 4.56 | 14.29 |
+| core gpu | 22 | 0 | 6 | 4.56 | 14.29 |
+| site reputation | 22 | 0 | 2 | 4.56 | 14.29 |
+| dolly parton | 21 | 0 | 6 | 4.51 | 13.94 |
+| reputation abuse | 20 | 0 | 2 | 4.46 | 13.59 |
+| source news | 41 | 2 | 41 | 3.57 | 13.35 |
+| major modes | 18 | 0 | 2 | 4.36 | 12.83 |
+| agency exec | 18 | 0 | 7 | 4.36 | 12.83 |
+| outer biosciences | 17 | 0 | 2 | 4.3 | 12.43 |
 
 ## Rising phrases (3-word)
 
@@ -40,31 +40,31 @@ Window: last **7d** (1037 posts) vs. prior **38d** (1756 posts).
 
 | term | now | before | docs | lift | score |
 |---|---:|---:|---:|---:|---:|
-| love preferred source | 30 | 0 | 30 | 4.73 | 16.25 |
-| source news please | 30 | 0 | 30 | 4.73 | 16.25 |
-| news please add | 30 | 0 | 30 | 4.73 | 16.25 |
-| please add preferred | 30 | 0 | 30 | 4.73 | 16.25 |
-| add preferred sources | 30 | 0 | 30 | 4.73 | 16.25 |
-| preferred sources list | 30 | 0 | 30 | 4.73 | 16.25 |
-| sources list news | 30 | 0 | 30 | 4.73 | 16.25 |
-| list news data | 30 | 0 | 30 | 4.73 | 16.25 |
-| news data interviews | 30 | 0 | 30 | 4.73 | 16.25 |
-| data interviews show | 30 | 0 | 30 | 4.73 | 16.25 |
-| interviews show feed | 30 | 0 | 30 | 4.73 | 16.25 |
-| show feed thanks | 30 | 0 | 30 | 4.73 | 16.25 |
-| toy brand sticki | 18 | 0 | 8 | 4.22 | 12.43 |
-| brand sticki rolls | 18 | 0 | 8 | 4.22 | 12.43 |
-| pay google pay | 17 | 0 | 11 | 4.16 | 12.03 |
-| mac studio ultra | 17 | 0 | 4 | 4.16 | 12.03 |
-| apple pay google | 16 | 0 | 10 | 4.1 | 11.62 |
-| core cpu core | 16 | 0 | 4 | 4.1 | 11.62 |
-| cpu core gpu | 16 | 0 | 4 | 4.1 | 11.62 |
-| mac mini pro | 15 | 0 | 2 | 4.04 | 11.2 |
-| sticki rolls youtube | 14 | 0 | 8 | 3.97 | 10.75 |
-| preferred source news | 30 | 2 | 30 | 3.12 | 10.72 |
-| rolls youtube strategy | 12 | 0 | 8 | 3.82 | 9.79 |
-| laptop docking stations | 12 | 0 | 3 | 3.82 | 9.79 |
-| indie agency exec | 12 | 0 | 5 | 3.82 | 9.79 |
+| love preferred source | 40 | 0 | 40 | 5.16 | 19.15 |
+| source news please | 40 | 0 | 40 | 5.16 | 19.15 |
+| news please add | 40 | 0 | 40 | 5.16 | 19.15 |
+| please add preferred | 40 | 0 | 40 | 5.16 | 19.15 |
+| add preferred sources | 40 | 0 | 40 | 5.16 | 19.15 |
+| preferred sources list | 40 | 0 | 40 | 5.16 | 19.15 |
+| sources list news | 40 | 0 | 40 | 5.16 | 19.15 |
+| list news data | 40 | 0 | 40 | 5.16 | 19.15 |
+| news data interviews | 40 | 0 | 40 | 5.16 | 19.15 |
+| data interviews show | 40 | 0 | 40 | 5.16 | 19.15 |
+| interviews show feed | 40 | 0 | 40 | 5.16 | 19.15 |
+| show feed thanks | 40 | 0 | 40 | 5.16 | 19.15 |
+| site reputation abuse | 20 | 0 | 2 | 4.46 | 13.59 |
+| preferred source news | 40 | 2 | 40 | 3.55 | 13.17 |
+| mac studio ultra | 17 | 0 | 4 | 4.3 | 12.43 |
+| indie agency exec | 17 | 0 | 7 | 4.3 | 12.43 |
+| core cpu core | 16 | 0 | 4 | 4.24 | 12.01 |
+| cpu core gpu | 16 | 0 | 4 | 4.24 | 12.01 |
+| mac mini pro | 15 | 0 | 2 | 4.18 | 11.58 |
+| trade desk betting | 12 | 0 | 8 | 3.95 | 10.14 |
+| inside dumpster fires | 12 | 0 | 7 | 3.95 | 10.14 |
+| promo codes september | 12 | 0 | 4 | 3.95 | 10.14 |
+| unified memory bandwidth | 11 | 0 | 4 | 3.87 | 9.61 |
+| humanoid robot games | 11 | 0 | 2 | 3.87 | 9.61 |
+| kokai trade desk | 11 | 0 | 7 | 3.87 | 9.61 |
 
 ## Rising single terms
 
@@ -72,31 +72,31 @@ Window: last **7d** (1037 posts) vs. prior **38d** (1756 posts).
 
 | term | now | before | docs | lift | score |
 |---|---:|---:|---:|---:|---:|
-| c-x | 109 | 0 | 2 | 6.02 | 28.28 |
-| tree-sitter | 74 | 0 | 2 | 5.63 | 24.3 |
-| mhs | 61 | 0 | 3 | 5.44 | 22.43 |
-| instructors | 93 | 1 | 3 | 4.76 | 21.62 |
-| hoka | 55 | 0 | 2 | 5.33 | 21.46 |
-| kodak | 47 | 0 | 2 | 5.17 | 20.03 |
-| tooltip | 44 | 0 | 2 | 5.11 | 19.45 |
-| ebpf | 71 | 1 | 2 | 4.49 | 19.2 |
-| nordvpn | 42 | 0 | 2 | 5.06 | 19.04 |
-| squarespace | 42 | 0 | 2 | 5.06 | 19.04 |
-| sticki | 41 | 0 | 8 | 5.04 | 18.83 |
-| polansky | 41 | 0 | 2 | 5.04 | 18.83 |
-| kokai | 41 | 0 | 7 | 5.04 | 18.83 |
-| moon | 351 | 27 | 12 | 3.18 | 18.63 |
-| lidar | 40 | 0 | 6 | 5.01 | 18.62 |
-| motherduck | 39 | 0 | 2 | 4.99 | 18.4 |
-| thomson | 83 | 2 | 5 | 4.13 | 18.32 |
-| emacs | 350 | 29 | 3 | 3.1 | 18.2 |
-| nil | 88 | 3 | 6 | 3.86 | 17.31 |
-| slovakia | 34 | 0 | 3 | 4.85 | 17.25 |
-| orbiter | 32 | 0 | 3 | 4.79 | 16.75 |
-| pebble | 32 | 0 | 3 | 4.79 | 16.75 |
-| vent | 31 | 0 | 3 | 4.76 | 16.49 |
-| lunar | 85 | 4 | 5 | 3.57 | 15.9 |
-| birdfy | 28 | 0 | 2 | 4.66 | 15.68 |
+| c-x | 109 | 0 | 2 | 6.15 | 28.93 |
+| tree-sitter | 74 | 0 | 2 | 5.77 | 24.9 |
+| mhs | 61 | 0 | 3 | 5.57 | 23.0 |
+| instructors | 93 | 1 | 3 | 4.9 | 22.25 |
+| webmcp | 81 | 1 | 4 | 4.76 | 20.97 |
+| kokai | 46 | 0 | 9 | 5.29 | 20.37 |
+| tooltip | 44 | 0 | 2 | 5.25 | 19.97 |
+| polansky | 41 | 0 | 2 | 5.18 | 19.35 |
+| thomson | 83 | 2 | 5 | 4.27 | 18.93 |
+| motherduck | 39 | 0 | 2 | 5.13 | 18.91 |
+| emacs | 349 | 30 | 2 | 3.21 | 18.79 |
+| parton | 35 | 0 | 6 | 5.02 | 17.98 |
+| uganda | 34 | 0 | 3 | 4.99 | 17.74 |
+| vent | 31 | 0 | 3 | 4.9 | 16.97 |
+| birdfy | 28 | 0 | 2 | 4.8 | 16.15 |
+| neo4j | 28 | 0 | 2 | 4.8 | 16.15 |
+| raid | 45 | 1 | 5 | 4.17 | 15.97 |
+| c-c | 45 | 1 | 2 | 4.17 | 15.97 |
+| microduck | 27 | 0 | 4 | 4.76 | 15.86 |
+| sai | 27 | 0 | 2 | 4.76 | 15.86 |
+| alpharetta | 27 | 0 | 2 | 4.76 | 15.86 |
+| dredge | 26 | 0 | 2 | 4.72 | 15.56 |
+| pim | 26 | 0 | 2 | 4.72 | 15.56 |
+| dolly | 26 | 0 | 6 | 4.72 | 15.56 |
+| moon | 330 | 51 | 10 | 2.63 | 15.25 |
 
 ## Stable core (highest doc-frequency, last window)
 
@@ -170,35 +170,35 @@ Each of these is a query someone decided was worth a whole page. This is your AI
 
 ## Publishing volume by source (30d)
 
-- Inc.com: 456
-- Hacker News: 404
-- WIRED: 254
-- Finextra Research Headlines: 187
-- TechCrunch: 120
-- PYMNTS |: 120
-- AI News & Artificial Intelligence | TechCrunch: 113
-- The New Stack: 107
-- Ars Technica: 103
-- Entrepreneur – Latest: 101
-- InfoQ: 97
-- Search Engine Journal: 88
-- Digiday: 69
-- The Fintech Times: 62
-- MarTech: 49
-- Banking Dive - Latest News: 48
-- AI | The Verge: 48
-- Marketing Dive - Latest News: 47
-- AdExchanger: 47
-- AI - Ars Technica: 44
-- SaaStrAI: 35
+- Inc.com: 490
+- Hacker News: 433
+- WIRED: 273
+- Finextra Research Headlines: 194
+- PYMNTS |: 130
+- TechCrunch: 128
+- AI News & Artificial Intelligence | TechCrunch: 118
+- The New Stack: 112
+- Entrepreneur – Latest: 110
+- Ars Technica: 110
+- InfoQ: 103
+- Search Engine Journal: 94
+- Digiday: 72
+- The Fintech Times: 65
+- MarTech: 53
+- Banking Dive - Latest News: 52
+- AdExchanger: 51
+- Marketing Dive - Latest News: 50
+- AI | The Verge: 49
+- AI - Ars Technica: 46
+- SaaStrAI: 37
 - Marketing: 27
-- Artificial intelligence – MIT Technology Review: 23
-- Semrush blog: 22
+- Semrush blog: 23
+- Artificial intelligence – MIT Technology Review: 22
 - The GitHub Blog: 18
 - Stack Overflow Blog: 18
 - moz (en-US): 13
+- dentsu.com: 6
 - The Pragmatic Engineer: 6
-- dentsu.com: 5
-- SEO Blog by Ahrefs: 5
+- SEO Blog by Ahrefs: 6
 - AI | VentureBeat: 4
 - Backlinko: 3
